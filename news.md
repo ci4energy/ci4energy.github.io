@@ -5,7 +5,7 @@ permalink: /news/
 weight: 5
 ---
 
-<div class="news">
+<!-- <div class="news"> -->
 
 
   <ul class="post-list">
@@ -18,4 +18,4 @@ weight: 5
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-</div>
+<!-- </div> -->
