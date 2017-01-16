@@ -1,10 +1,10 @@
 ---
 layout: default
-title: EA4NRG'17
+title: SmartEA'17
 permalink: /ea4nrg/
 weight: 50
 ---
-<h1><b>Workshop on Evolutionary Algorithms for Smart Grids (EA4NRG) at ​GECCO 2017</b></h1>
+<h1><b>Workshop on Evolutionary Algorithms for Smart Grids (SmartEA) at ​GECCO 2017</b></h1>
 
 <h3><b>Description and Topics</b></h3>
 
