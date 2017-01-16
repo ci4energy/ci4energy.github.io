@@ -4,7 +4,9 @@ title: SmartEA'17
 permalink: /ea4nrg/
 weight: 50
 ---
-<h1><b>Workshop on Evolutionary Algorithms for Smart Grids (SmartEA) at ​GECCO 2017</b></h1>
+<h2><b>Workshop on Evolutionary Algorithms for Smart Grids (SmartEA) at ​GECCO 2017</b></h2>
+
+<h2>July 15th-19th 2017, @ GECCO 2017 in Berlin</h2>
 
 <h3><b>Description and Topics</b></h3>
 
@@ -32,20 +34,20 @@ Submitted work should put an emphasis on modeling of solution spaces, on finding
 
 <h3><b>Important Dates</b></h3>
 
-- Submission deadline: 	April 3rd, 2016
-- Notification of acceptance: 	April 20th, 2016
-- Camera-ready submission: 	May 8th, 2016
-- Workshop at ​GECCO 2016: 	July 21st, 2016
+- Submission deadline: 	April 3rd, 2017
+- Notification of acceptance: 	April 20th, 2017
+- Camera-ready submission: 	May 8th, 2017
+- Workshop at ​GECCO 2017: 	TBA
 
 <h3><b>Submission Guidelines</b></h3>
 
-Authors should send their papers to ​evosoft@heuristiclab.com until April 3rd, 2016. All workshop papers have to fulfill the preparation instructions for GECCO'16 full papers. Detailed formatting instructions for authors are listed ​here.
+Authors should send their papers to paul.kaufmann@uni-paderborn.de until April 3rd, 2017. All workshop papers have to fulfill the preparation instructions for GECCO'17 full papers. Detailed formatting instructions for authors are listed ​<a href="http://gecco-2017.sigevo.org/index.html/Call+for+Papers">here</a>.
 
 <h3><b>Program</b></h3>
 
 TBA
 
-<h3><b>Workshop Chairs</b></h3>
+<h3><b>Organizers</b></h3>
 
 ​Stefan Wagner, Austria
 Stefan Wagner received his MSc in computer science in 2004 and his PhD in technical sciences in 2009, both from the Johannes Kepler University Linz, Austria. From 2005 to 2009 he worked as an associate professor for software project engineering and since 2009 as a full professor for complex software systems at the University of Applied Sciences Upper Austria, Campus Hagenberg, Austria. Dr. Wagner is one of the founders of the research group Heuristic and Evolutionary Algorithms Laboratory (HEAL) and is the project manager and head developer of the HeuristicLab optimization environment.
