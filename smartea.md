@@ -6,9 +6,10 @@ weight: 50
 ---
 <center>
 <h2><b>Workshop on Evolutionary Algorithms for Smart Grids (SmartEA)<br>at ​GECCO 2017 in Berlin, July 15th-19th 2017</b></h2>
+</center>
 
 <h3><b>Description and Topics</b></h3>
-</center>
+
 
 Sustainability is of great importance due to increasing demands and limited resources worldwide. In particular, in the field of energy production and consumption, methods are required that allow to phase generation and load efficiently. The vast extension of renewable and distributed energy sources and the growing information infrastructure enable a fine screening of producers and consumers, but require the development of tools for the analysis and understanding of large datasets about the energy grid. Key technologies in future ecological, economical and reliable energy systems are energy prediction of renewable resources, prediction of consumption as well as efficient planning and control strategies for network stability.
 
@@ -49,9 +50,39 @@ TBA
 
 <h3><b>Organizers</b></h3>
 
-​Stefan Wagner, Austria
-Stefan Wagner received his MSc in computer science in 2004 and his PhD in technical sciences in 2009, both from the Johannes Kepler University Linz, Austria. From 2005 to 2009 he worked as an associate professor for software project engineering and since 2009 as a full professor for complex software systems at the University of Applied Sciences Upper Austria, Campus Hagenberg, Austria. Dr. Wagner is one of the founders of the research group Heuristic and Evolutionary Algorithms Laboratory (HEAL) and is the project manager and head developer of the HeuristicLab optimization environment.
+<div style="float: right">
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/FrankCS.jpeg" alt="Frank" height="69"></a>
+</div>
 
-​Michael Affenzeller, Austria
-Michael Affenzeller has published several papers, journal articles and books dealing with theoretical and practical aspects of evolutionary computation, genetic algorithms, and meta-heuristics in general. In 2001 he received his PhD in engineering sciences and in 2004 he received his habilitation in applied systems engineering, both from the Johannes Kepler University Linz, Austria. Michael Affenzeller is professor at the University of Applied Sciences Upper Austria, Campus Hagenberg, and head of the research group Heuristic and Evolutionary Algorithms Laboratory (HEAL). 
+​<b>Frank Neumann</b>, University of Adelaide, Australia
+
+Frank Neumann received his diploma and Ph.D. from the Christian-Albrechts-University of Kiel in 2002 and 2006, respectively. Currently, he is an associate professor and leader of the Optimisation and Logistics Group at the School of Computer Science, The University of Adelaide, Australia. From 2008-2010, he has been the coordinator of the area 'Bio-inspired Computation' at the Max Planck Institute for Informatics, Saarbruecken, Germany. With Kenneth De Jong he organised ACM FOGA 2013 in Adelaide and together with Carsten Witt he has written the textbook 'Bioinspired Computation in Combinatorial Optimization - Algorithms and Their Computational Complexity' published by Springer. He is vice-chair of the IEEE Task Force on Theoretical Foundations of Bio-inspired Computation, chair of the IEEE Task Force on Evolutionary Scheduling and Combinatorial Optimization, and has guest-edited special issues for the journals Algorithmica, Theoretical Computer Science, and Evolutionary Computation (MIT Press). Furthermore, he has organized several tracks and special sessions at IEEE CEC and GECCO. In his work, he considers algorithmic approaches in particular for combinatorial and multi-objective optimization problems and focuses on theoretical aspects of evolutionary computation as well as high impact applications in the areas of renewable energy and sports.
+
+
+More information can be found <a href ="http://cs.adelaide.edu.au/~frank">here</a>
+
+<b>Markus Wagner</b>, University of Adelaide, Australia
+
+Markus Wagner is a Lecturer at the School of Computer Science, University of Adelaide, Australia. He has done his PhD studies at the Max Planck
+Institute for Informatics in Saarbruecken, Germany and at the University of
+Adelaide, Australia. His research topics range from mathematical runtime
+analysis of heuristic optimisation algorithms and theory-guided algorithm
+design to applications of heuristic methods to renewable energy production,
+professional team cycling and software engineering. So far, he has been a program committee member 29 times, and he has written over 60 articles with over 60 different co-authors. He has chaired several education-related committees within the IEEE CIS, and he is co-founder and current co-chair of the organising task force.
+
+More information can be found at: <a href="http://cs.adelaide.edu.au/~markus">here</a>
+
+<b>Oliver Kramer</b>, Carl von Ossietzky Universit\"{a}t Oldenburg, Germany
+
+Oliver Kramer is professor for Computational Intelligence at the University of Oldenburg in Germany. His main research interests are evolutionary algorithms and machine learning with applications in renewable energies. He received a PhD from the University of Paderborn, Germany, in 2008. After a postdoc stay at the TU Dortmund, Germany, from 2007 to 2009, and the International Computer Science Institute in Berkeley, USA, in 2010, he became Juniorprofessor Department of Computing Science at the University of Oldenburg. He is the author of more than 100 peer-reviews conference and journal papers and wrote three monographs on evolutionary computation. His research emphasis is on parameter control, constraint handling, and machine learning. 
+
+More information can be found at: <a href="http://www.ci.uni-oldenburg.de">here</a>
+
+<a>Paul Kaufmann</a>, University of Paderborn, Germany
+
+Paul Kaufmann received his Ph.D. in Evolvable Hardware (2013) from the University of Paderborn, Germany. He is a former member of the Fraunhofer Institute for Wind Energy and Energy System Technology in Kassel, Germany, and the Energy Management and Power System Operation Group at the University of Kassel. Currently, he is a Postdoctoral Research Fellow at the University of Paderborn. His research interests are artificial intelligence methods for the life-long adaptation of reconfigurable systems, hardware data mining architectures, and optimization as well as real-time hardware-in-the-loop simulation of smart grids. He is a member of the IEEE task force on Evolvable Hardware, ACM and HiPEAC. Currently, he is heading the EvoENERGY track on evolutionary algorithms in energy applications at the EvoStar conference.
+
+More information can be found at: <a hre="https://sites.google.com/site/paulkaufmann/">here</a>
+
+
 
