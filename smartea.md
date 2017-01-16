@@ -4,9 +4,11 @@ title: SmartEA'17
 permalink: /ea4nrg/
 weight: 50
 ---
+<center>
 <h2><b>Workshop on Evolutionary Algorithms for Smart Grids (SmartEA)<br>at ​GECCO 2017 in Berlin, July 15th-19th 2017</b></h2>
 
 <h3><b>Description and Topics</b></h3>
+</center>
 
 Sustainability is of great importance due to increasing demands and limited resources worldwide. In particular, in the field of energy production and consumption, methods are required that allow to phase generation and load efficiently. The vast extension of renewable and distributed energy sources and the growing information infrastructure enable a fine screening of producers and consumers, but require the development of tools for the analysis and understanding of large datasets about the energy grid. Key technologies in future ecological, economical and reliable energy systems are energy prediction of renewable resources, prediction of consumption as well as efficient planning and control strategies for network stability.
 
