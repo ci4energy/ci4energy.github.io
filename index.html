@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="large-page-heading">Welcome to the Ampehre project page!</h6>
+	
+  <a href="{{ site.baseurl }}/assets/msmonitor_3.png"><img src="{{ site.baseurl }}/assets/msmonitor_3.png" alt="msmonitor" width="$content-width"></a>
+	
+  <h1 class="page-heading">Posts</h1>
+  
+  <ul class="post-list">
+    {% for post in site.posts %}
+	  <hr class="seperator">
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <span class="post-brief">{{ post.brief }}</a>
+      </li>
+      <hr class="seperator">
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
