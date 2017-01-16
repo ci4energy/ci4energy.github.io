@@ -4,7 +4,7 @@ layout: default
 
 <div class="news">
 	
-  <h1 class="page-title">News</h1>
+  <h3><b>News</b></h3>
   
   <ul class="post-list">
     {% for post in site.posts %}
@@ -12,9 +12,9 @@ layout: default
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
+        <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        </h3>
         <span class="post-brief">{{ post.brief }}</a>
       </li>
       <hr class="seperator">
