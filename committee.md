@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Committee
 permalink: /committee/
 weight: 40
