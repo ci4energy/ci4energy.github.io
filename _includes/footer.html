@@ -2,14 +2,14 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+    <!-- <h2 class="footer-heading">{{ site.title }}</h2> -->
 
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
-          <li>Developer:</li>
+          <li>Developed by:</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          <li><a href="mailto:{{ site.email2 }}">{{ site.email2 }}</a></li>
+          <!-- <li><a href="mailto:{{ site.email2 }}">{{ site.email2 }}</a></li> -->
         </ul>
       </div>
 
@@ -27,7 +27,8 @@
               <span class="username">{{ site.github_username }}</span>
             </a>
           </li>
-           <li>
+          <!--
+		   <li>
             <a href="https://github.com/{{ site.github_username2 }}">
               <span class="icon  icon--github">
                 <svg viewBox="0 0 16 16">
@@ -36,7 +37,7 @@
               </span>
               <span class="username">{{ site.github_username2 }}</span>
             </a>
-          </li>
+          </li>-->
           {% endif %}
 
           {% if site.twitter_username %}
@@ -56,9 +57,10 @@
         </ul>
       </div>
 
-      <div class="footer-col  footer-col-3">
+      <!-- <div class="footer-col  footer-col-3">
         <p class="text">{{ site.description }}</p>
-      </div>
+      </div> 
+		  -->
     </div>
 
   </div>
