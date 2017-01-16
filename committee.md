@@ -17,7 +17,7 @@ Co-Chairs:
 Members:
 
 - <a href="http://homepages.cwi.nl/%7Ebosman/"><u><b>Peter Bosman</b></u></a>, Intelligent Systems Group, Centrum Wiskunde &amp; Informatica
-- <b>Konrad Diwold</b>, Forschungsgruppe Networks and Communication - Industrial Networks an Smart Grid Themen, Siemens Oesterreich
+- Konrad Diwold, Forschungsgruppe Networks and Communication - Industrial Networks an Smart Grid Themen, Siemens Oesterreich
 - <a href="http://www.ci.uni-oldenburg.de/55388.html"><u><b>Fabian Gieseke</b></u></a>, Computational Intelligence Group, Carl v. Ossietzky Universität
 - <a href="http://www.enterprise-application-development.org/group/joerg-laessig.html"><u><b>Jörg Lässig</b></u></a>, Enterprise Application Development, Zittau/Görlitz University of Applied Sciences
 - <a href="http://is.cs.ovgu.de/SanazMostaghim.html"><u><b>Sanaz Mostaghim</b></u></a>, Intelligent Systems Group, Otto von Guericke University Magdeburg

@@ -26,6 +26,5 @@ Datasets
 - <a href="http://www.dwd.de/bvbw/appmanager/bvbw/dwdwwwDesktop?_nfpb=true&amp;_pageLabel=_dwdwww_klima_umwelt_klimadaten_deutschland&amp;_state=maximized&amp;_windowLabel=T82002&amp;switchLang=en">Climate data from Deutscher Wetterdienst</a>
 - <a href="http://ewh.ieee.org/soc/pes/dsacom/testfeeders/index.html">IEEE distribution network test feeder</a>
 - <a href="http://www.ee.washington.edu/research/pstca/">Transmission grids</a>
-- E.ON standard load profiles: <a href="http://www.eon-mitte.com/de/netz/veroeffentlichungen/strom_/standardlastprofil_verfahren/standardlastprofile_2012">page 1</a>, 
-- <a href="http://www.eon-mitte.com/de/netz/veroeffentlichungen/strom_/veroeffentlichungen_nach_17_stromnzv">page 2</a>
+- E.ON standard load profiles: <a href="http://www.eon-mitte.com/de/netz/veroeffentlichungen/strom_/standardlastprofil_verfahren/standardlastprofile_2012">page 1</a>, <a href="http://www.eon-mitte.com/de/netz/veroeffentlichungen/strom_/veroeffentlichungen_nach_17_stromnzv">page 2</a>
 - <a href="http://www.quandl.com/collections">Quandl: energy consumptions/productions/... for countries</a>
