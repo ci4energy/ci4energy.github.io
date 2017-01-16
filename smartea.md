@@ -51,7 +51,7 @@ TBA
 <h3><b>Organizers</b></h3>
 
 <div style="float: left">
-    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/FrankCS.jpeg" alt="Frank" height="200" hspace="20" vspace="20"></a>
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/FrankCS.jpeg" alt="Frank" height="200" hspace="10" vspace="10"></a>
 </div>
 
 ​<b>Frank Neumann</b>, University of Adelaide, Australia
@@ -60,6 +60,10 @@ Frank Neumann received his diploma and Ph.D. from the Christian-Albrechts-Univer
 
 
 More information can be found <a href ="http://cs.adelaide.edu.au/~frank">here</a>
+
+<div style="float: left">
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/mw-cyclists.jpeg" alt="Markus" height="200" hspace="10" vspace="10"></a>
+</div>
 
 <b>Markus Wagner</b>, University of Adelaide, Australia
 
@@ -72,11 +76,20 @@ professional team cycling and software engineering. So far, he has been a progra
 
 More information can be found at: <a href="http://cs.adelaide.edu.au/~markus">here</a>
 
+<div style="float: left">
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/oliver.jpeg" alt="Oliver" height="200" hspace="10" vspace="10"></a>
+</div>
+
 <b>Oliver Kramer</b>, Carl von Ossietzky Universit\"{a}t Oldenburg, Germany
 
 Oliver Kramer is professor for Computational Intelligence at the University of Oldenburg in Germany. His main research interests are evolutionary algorithms and machine learning with applications in renewable energies. He received a PhD from the University of Paderborn, Germany, in 2008. After a postdoc stay at the TU Dortmund, Germany, from 2007 to 2009, and the International Computer Science Institute in Berkeley, USA, in 2010, he became Juniorprofessor Department of Computing Science at the University of Oldenburg. He is the author of more than 100 peer-reviews conference and journal papers and wrote three monographs on evolutionary computation. His research emphasis is on parameter control, constraint handling, and machine learning. 
 
 More information can be found at: <a href="http://www.ci.uni-oldenburg.de">here</a>
+
+
+<div style="float: left">
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/smarties.jpeg" alt="Paul" height="200" hspace="10" vspace="10"></a>
+</div>
 
 <a>Paul Kaufmann</a>, University of Paderborn, Germany
 
