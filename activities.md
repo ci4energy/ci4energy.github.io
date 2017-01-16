@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Planned, Current and Past Activities
+title: Activities
 permalink: /activites/
 weight: 10
 ---
