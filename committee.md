@@ -10,10 +10,12 @@ Chair:
 - <a href="https://sites.google.com/site/paulkaufmann"><u><b>Paul Kaufmann</b></u></a>, Computer Engineering Group, Universität Paderborn
 
 Co-Chairs: 
+
 - <a href="http://www.ci.uni-oldenburg.de/"><u><b>Oliver Kramer</b></u></a>, Computational Intelligence Group, Carl v. Ossietzky Universität (Chair 2016)
 - <a href="http://cs.adelaide.edu.au/%7Emarkus"><u><b>Markus Wagner</b></u></a>, Optimisation and Logistics Group, The University of Adelaide (Chair 2014 &amp; 2015)
 
 Members:
+
 - <a href="http://homepages.cwi.nl/%7Ebosman/"><u><b>Peter Bosman</b></u></a>, Intelligent Systems Group, Centrum Wiskunde &amp; Informatica
 - <b>Konrad Diwold</b>, Forschungsgruppe Networks and Communication - Industrial Networks an Smart Grid Themen, Siemens Oesterreich
 - <a href="http://www.ci.uni-oldenburg.de/55388.html"><u><b>Fabian Gieseke</b></u></a>, Computational Intelligence Group, Carl v. Ossietzky Universität

@@ -13,13 +13,13 @@
         </svg>
       </a>
       <div class="trigger">
-      	 <a class="page-link" href="http://www.evostar.org/2017/cfp_evoenergy.php">EvoENERGY</a>
 		{% assign pages = site.pages | sort:"weight"  %}
         {% for p in pages %}
           {% if p.title %}
           <a class="page-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
           {% endif %}
         {% endfor %}
+		<a class="page-link" href="http://www.evostar.org/2017/cfp_evoenergy.php">EvoENERGY</a>
       </div>
     </nav>
   </div>

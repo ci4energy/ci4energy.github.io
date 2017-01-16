@@ -14,10 +14,12 @@ Project websites
 - <a href="http://www.sita-research.org/">Sustainable Information Technologies and Applications (SITA) Research Center</a>
 
 Software
+
 - <a href="http://ewh.ieee.org/cmte/psace/CAMS_taskforce/software.htm">Comprehensive collection by the IEEE TF Open Source Software for Power Systems</a>
 - <a href="http://windml.org/">WindML: data-driven research in the wind power domain</a>
 
 Datasets
+
 - <a href="http://www.tracebase.org/publications">Electrical appliance power traces</a>
 - <a href="http://www.nrel.gov/midc/oahu_archive/">Hawaii solar irradiance data base</a>
 - <a href="http://www.nrel.gov/gis/data.html">National Renewable Energy Laboratory</a>
