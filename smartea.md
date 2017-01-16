@@ -50,8 +50,8 @@ TBA
 
 <h3><b>Organizers</b></h3>
 
-<div style="float: right">
-    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/FrankCS.jpeg" alt="Frank" height="69"></a>
+<div style="float: left">
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/FrankCS.jpeg" alt="Frank" height="150"></a>
 </div>
 
 ​<b>Frank Neumann</b>, University of Adelaide, Australia
