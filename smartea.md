@@ -4,9 +4,7 @@ title: SmartEA'17
 permalink: /ea4nrg/
 weight: 50
 ---
-<h2><b>Workshop on Evolutionary Algorithms for Smart Grids (SmartEA) at ​GECCO 2017</b></h2>
-
-<h2>July 15th-19th 2017, @ GECCO 2017 in Berlin</h2>
+<h2><b>Workshop on Evolutionary Algorithms for Smart Grids (SmartEA)<br>at ​GECCO 2017 in Berlin, July 15th-19th 2017</b></h2>
 
 <h3><b>Description and Topics</b></h3>
 
