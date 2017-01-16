@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SmartEA'17
-permalink: /ea4nrg/
+permalink: /smartEA/
 weight: 50
 ---
 <center>
@@ -95,7 +95,7 @@ More information can be found at: <a href="http://www.ci.uni-oldenburg.de">here<
 
 Paul Kaufmann received his Ph.D. in Evolvable Hardware (2013) from the University of Paderborn, Germany. He is a former member of the Fraunhofer Institute for Wind Energy and Energy System Technology in Kassel, Germany, and the Energy Management and Power System Operation Group at the University of Kassel. Currently, he is a Postdoctoral Research Fellow at the University of Paderborn. His research interests are artificial intelligence methods for the life-long adaptation of reconfigurable systems, hardware data mining architectures, and optimization as well as real-time hardware-in-the-loop simulation of smart grids. He is a member of the IEEE task force on Evolvable Hardware, ACM and HiPEAC. Currently, he is heading the EvoENERGY track on evolutionary algorithms in energy applications at the EvoStar conference.
 
-More information can be found at: <a hre="https://sites.google.com/site/paulkaufmann/">here</a>
+More information can be found at: <a href="https://sites.google.com/site/paulkaufmann/">here</a>
 
 
 
