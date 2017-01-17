@@ -20,7 +20,7 @@ weight: 10
 - Organizers of the <a href="http://www0.cs.ucl.ac.uk/staff/w.langdon/cec2016/">Special Session Genetic Improvement and Search-Based Software Engineering at WCCI 2016
 - Organizers of the <a href="http://www.wcci2016.org/spsessions.php">Special Session Optimization Methods in Energy Internet Systems at WCCI 2016
 - Special Issue of the Elsevier Renewable Energy Journal 2015 
-- <a href="http://www.journals.elsevier.com/renewable-energy/call-for-papers/special-issue-on-optimization-methods-in-renewable-energy-sy/">"Optimization Methods in Renewable Energy Systems Design"(<a href="http://cs.adelaide.edu.au/%7Emarkus/CIS-TF-Energy/Renewable_Energy_Special_Issue-Optimization_Methods_in_Renewable_Energy_Systems_Design-CfP.pdf">PDF, 135 submissions, 17 articles accepted so far)
+- <a href="http://www.journals.elsevier.com/renewable-energy/call-for-papers/special-issue-on-optimization-methods-in-renewable-energy-sy/">"Optimization Methods in Renewable Energy Systems Design" (<a href="{{ site.baseurl }}/assets/Renewable_Energy_Special_Issue-Optimization_Methods_in_Renewable_Energy_Systems_Design-CfP.pdf">PDF, 135 submissions, 17 articles accepted)
 - Organisers of the Special Session <a href="http://cs.adelaide.edu.au/%7Eoptlog/CEC2015RenewableEnergy/">Evolutionary Computation in the Energy Domain at the IEEE Congress on Evolutionary Computation 2015
 - Chair of the <a href="http://www.evostar.org/2015/cfp_evoenergy.php">EvoENERGY track on evolutionary algorithms in energy applications at the EvoStar 2015
 - Organizers of the <a href="http://www.cemisg2015.org/">2nd International Workshop on Computational Energy Management in Smart Grids (CEMiSG) 2015
