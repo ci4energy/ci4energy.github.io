@@ -35,10 +35,10 @@ Submitted work should put an emphasis on modeling of solution spaces, on finding
 
 <h3><b>Important Dates</b></h3>
 
-- Submission deadline: 	April 3rd, 2017
-- Notification of acceptance: 	April 20th, 2017
+- Submission deadline: 	March 30th, 2017
+- Notification of acceptance: 	April 12th, 2017
 - Camera-ready submission: 	May 8th, 2017
-- Workshop at ​GECCO 2017: 	TBA
+- Workshop at ​GECCO 2017: July 16-17th, 2017
 
 <h3><b>Submission Guidelines</b></h3>
 
@@ -51,23 +51,12 @@ TBA
 <h3><b>Organizers</b></h3>
 
 <div style="float: left">
-    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/FrankCS.jpeg" alt="Frank" height="200" hspace="10" vspace="10"></a>
-</div>
-
-​<b>Frank Neumann</b>, University of Adelaide, Australia
-
-Frank Neumann received his diploma and Ph.D. from the Christian-Albrechts-University of Kiel in 2002 and 2006, respectively. Currently, he is an associate professor and leader of the Optimisation and Logistics Group at the School of Computer Science, The University of Adelaide, Australia. From 2008-2010, he has been the coordinator of the area 'Bio-inspired Computation' at the Max Planck Institute for Informatics, Saarbruecken, Germany. With Kenneth De Jong he organised ACM FOGA 2013 in Adelaide and together with Carsten Witt he has written the textbook 'Bioinspired Computation in Combinatorial Optimization - Algorithms and Their Computational Complexity' published by Springer. He is vice-chair of the IEEE Task Force on Theoretical Foundations of Bio-inspired Computation, chair of the IEEE Task Force on Evolutionary Scheduling and Combinatorial Optimization, and has guest-edited special issues for the journals Algorithmica, Theoretical Computer Science, and Evolutionary Computation (MIT Press). Furthermore, he has organized several tracks and special sessions at IEEE CEC and GECCO. In his work, he considers algorithmic approaches in particular for combinatorial and multi-objective optimization problems and focuses on theoretical aspects of evolutionary computation as well as high impact applications in the areas of renewable energy and sports.
-
-
-More information can be found <a href ="http://cs.adelaide.edu.au/~frank">here</a>
-
-<div style="float: left">
     <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/mw-cyclists.jpeg" alt="Markus" height="200" hspace="10" vspace="10"></a>
 </div>
 
 <b>Markus Wagner</b>, University of Adelaide, Australia
 
-Markus Wagner is a Lecturer at the School of Computer Science, University of Adelaide, Australia. He has done his PhD studies at the Max Planck
+Markus Wagner is a Senior Lecturer at the School of Computer Science, University of Adelaide, Australia. He has done his PhD studies at the Max Planck
 Institute for Informatics in Saarbruecken, Germany and at the University of
 Adelaide, Australia. His research topics range from mathematical runtime
 analysis of heuristic optimisation algorithms and theory-guided algorithm
@@ -80,15 +69,28 @@ More information can be found at: <a href="http://cs.adelaide.edu.au/~markus">he
     <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/oliver.jpeg" alt="Oliver" height="200" hspace="10" vspace="10"></a>
 </div>
 
-<b>Oliver Kramer</b>, Carl von Ossietzky Universit\"{a}t Oldenburg, Germany
+<b>Oliver Kramer</b>, Carl von Ossietzky Universität Oldenburg, Germany
 
-Oliver Kramer is professor for Computational Intelligence at the University of Oldenburg in Germany. His main research interests are evolutionary algorithms and machine learning with applications in renewable energies. He received a PhD from the University of Paderborn, Germany, in 2008. After a postdoc stay at the TU Dortmund, Germany, from 2007 to 2009, and the International Computer Science Institute in Berkeley, USA, in 2010, he became Juniorprofessor Department of Computing Science at the University of Oldenburg. He is the author of more than 100 peer-reviews conference and journal papers and wrote three monographs on evolutionary computation. His research emphasis is on parameter control, constraint handling, and machine learning. 
+Oliver Kramer is Assistant Professor (Juniorprofessor) for Computational Intelligence at the University of Oldenburg in Germany. His main research interests are machine learning, evolutionary optimization, and their application to real-world domains. He received a PhD from the University of Paderborn, Germany, in 2008. After a postdoc stay at the TU Dortmund, Germany, from 2007 to 2009, and the International Computer Science Institute in Berkeley (USA) in 2010, he became Juniorprofessor at the Bauhaus University Weimar, later Juniorprofessor at the Department of Computing Science at the University of Oldenburg, where he finished his habilitation in 2013.
+
 
 More information can be found at: <a href="http://www.ci.uni-oldenburg.de">here</a>
 
+<div style="float: left">
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/FrankCS.jpeg" alt="Frank" height="200" hspace="10" vspace="10"></a>
+</div>
+
+​<b>Frank Neumann</b>, University of Adelaide, Australia
+
+Frank Neumann received his diploma and Ph.D. from the Christian-Albrechts-University of Kiel in 2002 and 2006, respectively. Currently, he is an associate professor and leader of the Optimisation and Logistics Group at the School of Computer Science, The University of Adelaide, Australia. From 2008-2010, he has been the coordinator of the area 'Bio-inspired Computation' at the Max Planck Institute for Informatics, Saarbruecken, Germany. With Kenneth De Jong he organised ACM FOGA 2013 in Adelaide and together with Carsten Witt he has written the textbook 'Bioinspired Computation in Combinatorial Optimization - Algorithms and Their Computational Complexity' published by Springer. He is vice-chair of the IEEE Task Force on Theoretical Foundations of Bio-inspired Computation, chair of the IEEE Task Force on Evolutionary Scheduling and Combinatorial Optimization, and has guest-edited special issues for the journals Algorithmica, Theoretical Computer Science, and Evolutionary Computation (MIT Press). Furthermore, he has organized several tracks and special sessions at IEEE CEC and GECCO. In his work, he considers algorithmic approaches in particular for combinatorial and multi-objective optimization problems and focuses on theoretical aspects of evolutionary computation as well as high impact applications in the areas of renewable energy and sports.
+
+
+More information can be found <a href ="http://cs.adelaide.edu.au/~frank">here</a>
+
+
 
 <div style="float: left">
-    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/smarties.jpeg" alt="Paul" height="200" hspace="10" vspace="10"></a>
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/paul.jpg" alt="Paul" height="200" hspace="10" vspace="10"></a>
 </div>
 
 <a>Paul Kaufmann</a>, University of Paderborn, Germany
