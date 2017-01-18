@@ -51,6 +51,18 @@ TBA
 <h3><b>Organizers</b></h3>
 
 <div style="float: left">
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/oliver.jpeg" alt="Oliver" height="200" hspace="10" vspace="10"></a>
+</div>
+
+<b>Oliver Kramer</b>, Carl von Ossietzky Universität Oldenburg, Germany
+
+Oliver Kramer is Assistant Professor (Juniorprofessor) for Computational Intelligence at the University of Oldenburg in Germany. His main research interests are machine learning, evolutionary optimization, and their application to real-world domains. He received a PhD from the University of Paderborn, Germany, in 2008. After a postdoc stay at the TU Dortmund, Germany, from 2007 to 2009, and the International Computer Science Institute in Berkeley (USA) in 2010, he became Juniorprofessor at the Bauhaus University Weimar, later Juniorprofessor at the Department of Computing Science at the University of Oldenburg, where he finished his habilitation in 2013.
+
+
+More information can be found at: <a href="http://www.ci.uni-oldenburg.de">here</a>
+
+
+<div style="float: left">
     <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/mw-cyclists.jpeg" alt="Markus" height="200" hspace="10" vspace="10"></a>
 </div>
 
@@ -64,17 +76,6 @@ design to applications of heuristic methods to renewable energy production,
 professional team cycling and software engineering. So far, he has been a program committee member 29 times, and he has written over 60 articles with over 60 different co-authors. He has chaired several education-related committees within the IEEE CIS, and he is co-founder and current co-chair of the organising task force.
 
 More information can be found at: <a href="http://cs.adelaide.edu.au/~markus">here</a>
-
-<div style="float: left">
-    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/oliver.jpeg" alt="Oliver" height="200" hspace="10" vspace="10"></a>
-</div>
-
-<b>Oliver Kramer</b>, Carl von Ossietzky Universität Oldenburg, Germany
-
-Oliver Kramer is Assistant Professor (Juniorprofessor) for Computational Intelligence at the University of Oldenburg in Germany. His main research interests are machine learning, evolutionary optimization, and their application to real-world domains. He received a PhD from the University of Paderborn, Germany, in 2008. After a postdoc stay at the TU Dortmund, Germany, from 2007 to 2009, and the International Computer Science Institute in Berkeley (USA) in 2010, he became Juniorprofessor at the Bauhaus University Weimar, later Juniorprofessor at the Department of Computing Science at the University of Oldenburg, where he finished his habilitation in 2013.
-
-
-More information can be found at: <a href="http://www.ci.uni-oldenburg.de">here</a>
 
 <div style="float: left">
     <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/FrankCS.jpeg" alt="Frank" height="200" hspace="10" vspace="10"></a>
