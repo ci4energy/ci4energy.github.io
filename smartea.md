@@ -35,9 +35,9 @@ Submitted work should put an emphasis on modeling of solution spaces, on finding
 
 <h3><b>Important Dates</b></h3>
 
-- Submission deadline: 	March 30th, 2017
-- Notification of acceptance: 	April 12th, 2017
-- Camera-ready submission: 	May 8th, 2017
+- Submission deadline: 	April 1th, 2017
+- Notification of acceptance: 	April 15th, 2017
+- Camera-ready submission: 	May 6th, 2017
 - Workshop at ​GECCO 2017: July 16-17th, 2017
 
 <h3><b>Submission Guidelines</b></h3>
@@ -96,7 +96,7 @@ More information can be found <a href ="http://cs.adelaide.edu.au/~frank">here</
 
 <a>Paul Kaufmann</a>, University of Paderborn, Germany
 
-Paul Kaufmann received his Ph.D. in Evolvable Hardware (2013) from the University of Paderborn, Germany. He is a former member of the Fraunhofer Institute for Wind Energy and Energy System Technology in Kassel, Germany, and the Energy Management and Power System Operation Group at the University of Kassel. Currently, he is a Postdoctoral Research Fellow at the University of Paderborn. His research interests are artificial intelligence methods for the life-long adaptation of reconfigurable systems, hardware data mining architectures, and optimization as well as real-time hardware-in-the-loop simulation of smart grids. He is a member of the IEEE task force on Evolvable Hardware, ACM and HiPEAC. Currently, he is heading the EvoENERGY track on evolutionary algorithms in energy applications at the EvoStar conference.
+Paul Kaufmann is a Postdoctoral Research Fellow at the University of Paderborn. His main research interests are evolutionary algorithms, signal classification, and their application to adaptive and reconfigurable hardware systems. After receiving a Ph.D. in Evolvable Hardware (2013) from the University of Paderborn, he stayed at the Fraunhofer Institute for Wind Energy and Energy System Technology and the Energy Management and Power System Operation Group at the University of Kassel from 2012 to 2013. He is organizing the annual EvoENERGY Workshop at EvoStar, heading the IEEE CIS Educational Material subcommittee, has co-founded and is heading the IEEE Task Force on Computational Intelligence in the Energy Domain, and is member of the IEEE Task Force on Evolvable Hardware.
 
 More information can be found at: <a href="https://sites.google.com/site/paulkaufmann/">here</a>
 
