@@ -30,7 +30,7 @@ Submitted work should put an emphasis on modeling of solution spaces, on finding
 
 - Submission deadline: 	April 1st, 2017
 - Notification of acceptance: 	April 15th, 2017
-- Camera-ready submission: 	May 6st, 2017
+- Camera-ready submission: 	May 6th, 2017
 - Conference: July 15-19, 2017
 
 <h3><b>Submission Guidelines</b></h3>
@@ -42,7 +42,7 @@ We invite submissions of two types of paper:
 
 We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion.
 
-All papers should be in ACM (Association for Computing Machinery) format. Please see <a href="http://gecco-2017.sigevo.org"> GECCO 2017 </a> for details. Papers should not be anonymised. All papers should be submitted in PDF format to <a href="paul.kaufmann@uni-paderborn.de">Paul Kaufmann</a>. All accepted papers will will appear in the GECCO workshop volume.
+All papers should be in ACM (Association for Computing Machinery) format. Please see <a href="http://gecco-2017.sigevo.org"> GECCO 2017 </a> for details. Papers should not be anonymised. All papers should be submitted in PDF format to <a href="mailto:paul.kaufmann@uni-paderborn.de">Paul Kaufmann</a>. All accepted papers will will appear in the GECCO workshop volume.
 
 <h3><b>Program</b></h3>
 
