@@ -42,8 +42,6 @@ Submitted work should put an emphasis on modeling of solution spaces, on finding
 
 <h3><b>Submission Guidelines</b></h3>
 
-Research & Position Papers
-
 We invite submissions of two types of paper:
 
 - Research papers: up to 8 pages long
