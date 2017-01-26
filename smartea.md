@@ -28,10 +28,10 @@ Submitted work should put an emphasis on modeling of solution spaces, on finding
 
 <h3><b>Important Dates</b></h3>
 
-- Submission deadline: 	April 1th, 2017
+- Submission deadline: 	April 1st, 2017
 - Notification of acceptance: 	April 15th, 2017
-- Camera-ready submission: 	May 6th, 2017
-- Workshop at ​GECCO 2017: July 16-17th, 2017
+- Camera-ready submission: 	May 6st, 2017
+- Conference: July 15-19, 2017
 
 <h3><b>Submission Guidelines</b></h3>
 
