@@ -18,17 +18,10 @@ To enable financially and ecologically viable projects, optimization methods hav
 The main goal of this workshop is to promote the research on evolutionary algorithms in smart grids. We are seeking innovative research articles including, but not limited to the following areas:
 
 - Energy generation and load forecasting
-- Monitoring and simulation 
-- Communication and control
 - Demand side and smart home energy management
-- Distributed energy resources
-- Methods and algorithms for real-time analysis and control
-- Open access datasets and tools
-- Electric drive vehicles
-- Renewable energy
+- Network Restoration
+- Real-time control and optimization
 - Smart micro-grids
-- Smart sensing
-- Virtual power plants
 
 Submitted work should put an emphasis on modeling of solution spaces, on finding optimal representations and operators for evolutionary algorithms, and on employing and developing advanced evolutionary heuristics, e.g., for step size control, constraint handling, dynamic solution spaces, and multiple conflictive objectives.
 
@@ -49,7 +42,7 @@ We invite submissions of two types of paper:
 
 We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion.
 
-All papers should be in ACM (Association for Computing Machinery) format. Please see <a href="http://gecco-2017.sigevo.org"> GECCO 2017 </a> for details. Papers should not be anonymised. All papers should be submitted in PDF format to paul.kaufmann@uni-paderborn.de. All accepted papers will will appear in the GECCO workshop volume.
+All papers should be in ACM (Association for Computing Machinery) format. Please see <a href="http://gecco-2017.sigevo.org"> GECCO 2017 </a> for details. Papers should not be anonymised. All papers should be submitted in PDF format to <a href="paul.kaufmann@uni-paderborn.de">Paul Kaufmann</a>. All accepted papers will will appear in the GECCO workshop volume.
 
 <h3><b>Program</b></h3>
 
