@@ -42,7 +42,16 @@ Submitted work should put an emphasis on modeling of solution spaces, on finding
 
 <h3><b>Submission Guidelines</b></h3>
 
-Authors should send their papers to paul.kaufmann@uni-paderborn.de until April 3rd, 2017. All workshop papers have to fulfill the preparation instructions for GECCO'17 full papers. Detailed formatting instructions for authors are listed ​<a href="http://gecco-2017.sigevo.org/index.html/Call+for+Papers">here</a>.
+Research & Position Papers
+
+We invite submissions of two types of paper:
+
+- Research papers: up to 8 pages long
+- Position papers: 2 pages long
+
+We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion.
+
+All papers should be in ACM (Association for Computing Machinery) format. Please see <a href="http://gecco-2017.sigevo.org"> GECCO 2017 </a> for details. Papers should not be anonymised. All papers should be submitted in PDF format to paul.kaufmann@uni-paderborn.de. All accepted papers will will appear in the GECCO workshop volume.
 
 <h3><b>Program</b></h3>
 
