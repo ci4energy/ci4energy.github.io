@@ -28,7 +28,7 @@ weight: 40
 - <a href="http://www.ies.eecs.uni-kassel.de/sick">Bernhard Sick</a>, Intelligent Embedded Systems, University of Kassel
 - <a href="http://www.dii.univpm.it/stefano.squartini">Stefano Squartini</a>, Dipartimento di Ingegneria dell'Informazione - Università Politecnica delle Marche
 - <a href="http://www.ece.nus.edu.sg/stfpage/elesd/">Dipti Srinivasan</a>, Department of Electrical &amp; Computer Engineering, National University of Singapore
-- <a href="https://alexandrutantar.wordpress.com/">Alexandru-Adrian Tantar</a>, Interdisciplinary Centre for Security, Reliability and Trust, University of Luxembourg
+- Alexandru-Adrian Tantar, Interdisciplinary Centre for Security, Reliability and Trust, University of Luxembourg
 - <a href="https://emiliatantar.wordpress.com/">Emilia Tantar</a>, Interdisciplinary Centre for Security, Reliability and Trust, University of Luxembourg
 - <a href="http://www.umwelt-campus.de/ucb/index.php?id=teheesen">Henrik te Heesen</a>, Renewable Energy Technologies, Environmental Campus Birkenfeld, University of Applied Sciences Trier
 - <a href="http://www.ci.uni-oldenburg.de/59440.html">Nils André Treiber</a>, Computational Intelligence Group, Carl v. Ossietzky Universität
