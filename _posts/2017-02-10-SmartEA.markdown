@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "SmartEA@GECCO"
+date:   2017-02-10
+categories: webpage update
+brief: Announcement of the 2017 GECCO Workshop on Evolutionary Algorithms for Smart Grids (SmartEA)
+--- 
+---
+
+#### Description:
+
+We are inviting for submissions to the 2017 GECCO Workshop on Evolutionary Algorithms for Smart Grids (SmartEA)
