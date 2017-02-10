@@ -6,6 +6,9 @@ weight: 50
 ---
 <center>
 <h2><b>Workshop on Evolutionary Algorithms for Smart Grids (SmartEA)<br>at ​GECCO 2017 in Berlin, July 15th-19th 2017</b></h2>
+
+<h3><a href="{{ site.baseurl }}/assets/SmartEA-CfP.pdf">Call for submissions as PDF</a></h3>
+
 </center>
 
 <h3><b>Description and Topics</b></h3>
