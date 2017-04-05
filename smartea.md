@@ -51,13 +51,23 @@ All papers should be in ACM (Association for Computing Machinery) format. Please
 
 TBA
 
+<h3><b>Technical Program Committee</b></h3>
+
+- Kouzou Abdellah, Faculty of Science and Technology, Djelfa University, Algeria
+- Paul Kaufmann, Paderborn University, Germany
+- Oliver Kramer, Carl von Ossietzky, Oldenburg, Germany
+- Frank Neumann, University of Adelaide, Australia
+- Filipe de Oliveira Saraiva, Universidade Federal do Pará, Brasil
+- Nataliia Sergiienko, University of Adelaide, Australia
+- Markus Wagner, University of Adelaide, Australia
+
 <h3><b>Organizers</b></h3>
 
 <div style="float: left">
     <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/oliver.jpeg" alt="Oliver" height="200" hspace="10" vspace="10"></a>
 </div>
 
-<b>Oliver Kramer</b>, Carl von Ossietzky Universität Oldenburg, Germany
+<b>Oliver Kramer</b>, Carl von Ossietzky University Oldenburg, Germany
 
 Oliver Kramer is Assistant Professor (Juniorprofessor) for Computational Intelligence at the University of Oldenburg in Germany. His main research interests are machine learning, evolutionary optimization, and their application to real-world domains. He received a PhD from the University of Paderborn, Germany, in 2008. After a postdoc stay at the TU Dortmund, Germany, from 2007 to 2009, and the International Computer Science Institute in Berkeley (USA) in 2010, he became Juniorprofessor at the Bauhaus University Weimar, later Juniorprofessor at the Department of Computing Science at the University of Oldenburg, where he finished his habilitation in 2013.
 
