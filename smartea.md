@@ -54,6 +54,7 @@ TBA
 <h3><b>Technical Program Committee</b></h3>
 
 - Kouzou Abdellah, Faculty of Science and Technology, Djelfa University, Algeria
+- Maryam Hasani, University of Adelaide, Australia
 - Paul Kaufmann, Paderborn University, Germany
 - Oliver Kramer, Carl von Ossietzky, Oldenburg, Germany
 - Frank Neumann, University of Adelaide, Australia
