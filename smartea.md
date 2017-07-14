@@ -49,7 +49,18 @@ All papers should be in ACM (Association for Computing Machinery) format. Please
 
 <h3><b>Program</b></h3>
 
-TBA
+The workshop will take place on Sunday, July 16, 14:00-18:00, Bernstein
+                                                                                                                                                   |
+| 14:00-14:22 | Optimizing Booster Stations                                                                                  | Jonas Weber         |
+| 14:22-14:44 | Differential Evolution Strategies for Large-Scale Energy Resource Management in Smart Grids                  | Fernando Lezama     |
+| 14:44-15:06 | Restoration of Power Distribution Networks - A Fast Evolutionary Approach based on Practical Perspectives    | Eduardo G. Carrano  |
+| 15:06-15:28 | Evolving Multi-Objective Neural Networks using Differential Evolution for Dynamic Economic Emission Dispatch | Karl Mason          |
+| 15:28-15:50 | Towards Coding Strategies for Forecasting-Based Scheduling in Smart Grids and the Energy Lab 2.0             | W. Jakob            |
+| 15:50-16:10 | coffee break                                                                                                 |                     |
+| 16:10-16:40 | Power distribution network restoration: Challenges and perspectives                                          | Eduardo G. Carrano  |
+| 16:40-17:50 | Panel discussion                                                                                             | organizers          |
+| 17:50-18:00 | workshop closing                                                                                             | organizers          |
+
 
 <h3><b>Technical Program Committee</b></h3>
 
