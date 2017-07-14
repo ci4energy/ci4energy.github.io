@@ -47,10 +47,13 @@ We encourage authors to submit early and in-progress work. The workshop emphasis
 
 All papers should be in ACM (Association for Computing Machinery) format. Please see <a href="http://gecco-2017.sigevo.org"> GECCO 2017 </a> for details. Papers should not be anonymised. All papers should be submitted in PDF format to <a href="mailto:paul.kaufmann@uni-paderborn.de">Paul Kaufmann</a>. All accepted papers will will appear in the GECCO workshop volume.
 
+
 <h3><b>Program</b></h3>
 
 The workshop will take place on Sunday, July 16, 14:00-18:00, Bernstein
-                                                                                                                                                   |
+
+| Time        | Title                                                                                                        | Speaker             |
+| ----------- | ------------------------------------------------------------------------------------------------------------ | ------------------- |
 | 14:00-14:22 | Optimizing Booster Stations                                                                                  | Jonas Weber         |
 | 14:22-14:44 | Differential Evolution Strategies for Large-Scale Energy Resource Management in Smart Grids                  | Fernando Lezama     |
 | 14:44-15:06 | Restoration of Power Distribution Networks - A Fast Evolutionary Approach based on Practical Perspectives    | Eduardo G. Carrano  |
