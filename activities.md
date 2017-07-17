@@ -6,14 +6,15 @@ weight: 10
 ---
 
 <h3><b>Upcoming events</b></h3>
+- Organizers of the <a href="http://www.cemisg.org/">4th International Workshop on Computational Energy Management in Smart Grids (CEMiSG) 2018
+- Chair of the <a href="http://www.evostar.org/">EvoENERGY track on evolutionary algorithms in energy applications at the EvoStar 2018
+	
+<h3><b>Past activities</b></h3>
 
 - Organizers of the <a href="http://www.cemisg.org/">4th International Workshop on Computational Energy Management in Smart Grids (CEMiSG) 2017
 - Chair of the <a href="http://www.evostar.org/2017/cfp_evoenergy.php">EvoENERGY track on evolutionary algorithms in energy applications at the EvoStar 2017
 - Program Chair of the <a href="http://www.acalci.net/2017/index.html">Australasian Conference on Artificial Life and Computational Intelligence (ACALCI) 2017
 - Workshop Chair of the <a href="http://gecco-2017.sigevo.org/">Genetic and Evolutionary Computation Conference (GECCO) 2017
-	
-<h3><b>Past activities</b></h3>
-
 - General Chair and Workshop Chair of the <a href="http://www.sigevo.org/gecco-2016/">Genetic and Evolutionary Computation Conference (GECCO) 2016
 - Organizers of the <a href="http://upfzone.net/cemisg2016/">3rd International Workshop on Computational Energy Management in Smart Grids (CEMiSG) 2016
 - Chair of the <a href="http://www.evostar.org/2016/cfp_evoenergy.php">EvoENERGY track on evolutionary algorithms in energy applications at the EvoStar 2016
