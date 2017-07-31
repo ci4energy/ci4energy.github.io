@@ -20,12 +20,14 @@ weight: 40
 - Konrad Diwold, Forschungsgruppe Networks and Communication - Industrial Networks an Smart Grid Themen, Siemens Oesterreich
 - <a href="http://diku.dk/english/staff/?pure=en/persons/473301">Fabian Gieseke</a>, Department of Computer Science, University of Copenhagen
 - <a href="http://www.enterprise-application-development.org/group/joerg-laessig.html">Jörg Lässig</a>, Enterprise Application Development, Zittau/Görlitz University of Applied Sciences
+- Fernando Lezama, GECAD-Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development, Engineering Institute – Polytechnic of Porto, Portugal
 - <a href="http://www.wiwi.uni-siegen.de/technologiemanagement/">Ulf Lorenz</a>, Optimization under Uncertainty and Technical Operations Research
 - <a href="http://is.cs.ovgu.de/SanazMostaghim.html">Sanaz Mostaghim</a>, Intelligent Systems Group, Otto von Guericke University Magdeburg
 - <a href="http://cs.adelaide.edu.au/%7Efrank">Frank Neumann</a>, Optimisation and Logistics Group, The University of Adelaide
 - <a href="http://www.dii.univpm.it/francesco.piazza">Francesco Piazza</a>, Dipartimento di Ingegneria dell'Informazione - Università Politecnica delle Marche
 - <a href="http://filipesaraiva.info/">Filipe Saraiva</a>, Faculdade de Computação, Universidade Federal do Pará
 - <a href="http://www.ies.eecs.uni-kassel.de/sick">Bernhard Sick</a>, Intelligent Embedded Systems, University of Kassel
+- Joao Soares, Polytechnic Institute of Porto, Portugal
 - <a href="http://www.dii.univpm.it/stefano.squartini">Stefano Squartini</a>, Dipartimento di Ingegneria dell'Informazione - Università Politecnica delle Marche
 - <a href="http://www.ece.nus.edu.sg/stfpage/elesd/">Dipti Srinivasan</a>, Department of Electrical &amp; Computer Engineering, National University of Singapore
 - Alexandru-Adrian Tantar, Interdisciplinary Centre for Security, Reliability and Trust, University of Luxembourg
