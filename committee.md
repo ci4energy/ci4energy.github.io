@@ -33,3 +33,5 @@ weight: 40
 - Alexandru-Adrian Tantar, Interdisciplinary Centre for Security, Reliability and Trust, University of Luxembourg
 - <a href="https://emiliatantar.wordpress.com/">Emilia Tantar</a>, Interdisciplinary Centre for Security, Reliability and Trust, University of Luxembourg
 - <a href="http://www.umwelt-campus.de/ucb/index.php?id=teheesen">Henrik te Heesen</a>, Renewable Energy Technologies, Environmental Campus Birkenfeld, University of Applied Sciences Trier
+- Zita Vale, Intelligent Engineering and Computing for Advanced Innovation and Development (GECAD), Polytechnic of Porto
+
