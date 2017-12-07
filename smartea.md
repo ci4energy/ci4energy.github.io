@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SmartEA'17
+<!-- title: SmartEA'17 -->
 permalink: /smartEA/
 weight: 50
 ---
