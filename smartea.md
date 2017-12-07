@@ -1,7 +1,8 @@
 ---
 layout: default
-<!-- title: SmartEA'17 -->
+title: SmartEA'17
 permalink: /smartEA/
+showinheader: true
 weight: 50
 ---
 <center>
