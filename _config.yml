@@ -10,3 +10,6 @@ github_username: paul-kaufmann
 
 # Build settings
 markdown: kramdown
+
+# which header pages to show
+showpages: [activities, resources, committee]
