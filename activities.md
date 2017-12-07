@@ -2,6 +2,7 @@
 layout: default
 title: Activities
 permalink: /activites/
+showinheader: true
 weight: 10
 ---
 

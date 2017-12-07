@@ -2,6 +2,7 @@
 layout: default
 title: Committee
 permalink: /committee/
+showinheader: true
 weight: 40
 ---
 

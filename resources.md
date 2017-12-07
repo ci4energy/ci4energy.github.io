@@ -2,6 +2,7 @@
 layout: default
 title: Resources
 permalink: /resources/
+showinheader: true
 weight: 30
 ---
 
