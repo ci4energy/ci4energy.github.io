@@ -2,7 +2,7 @@
 layout: default
 title: SmartEA'17
 permalink: /smartEA/
-weight: 0
+weight: -1
 ---
 <center>
 <h2><b><a href="http://gecco-2017.sigevo.org/index.html/Workshops#id_Evolutionary%20Methods%20for%20Smart%20Grid%20Applications">Workshop on Evolutionary Algorithms for Smart Grids (SmartEA)<br>at ​GECCO 2017 in Berlin, July 15th-19th 2017</a></b></h2>
