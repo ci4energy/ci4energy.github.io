@@ -6,7 +6,7 @@ showinheader: true
 weight: 50
 ---
 <center>
-<h2><b><a href="http://www.gecad.isep.ipp.pt/IEEE-SS-CEC-WCCI2018/">Special Session on Evolutionary Computation for Complex Optimization in the Energy Domain <br>at ​IEEE World Congress on Computational Intelligence 2018 – WCCI 2018 </a></b></h2>
+<h2><b><a href="http://www.gecad.isep.ipp.pt/IEEE-SS-CEC-WCCI2018/">WCCI'18 Special Session on<br>Evolutionary Computation for Complex Optimization in the Energy Domain<br>at ​the IEEE World Congress on Computational Intelligence (WCCI) 2018</a></b></h2>
 
 <!-- <h3><a href="{{ site.baseurl }}/assets/SmartEA-CfP.pdf">Call for submissions as PDF</a></h3> -->
 

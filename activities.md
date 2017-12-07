@@ -7,7 +7,7 @@ weight: 10
 ---
 
 <h3><b>Upcoming events</b></h3>
-- Organizers of the <a href="http://www.gecad.isep.ipp.pt/IEEE-SS-CEC-WCCI2018/">Special Session on Evolutionary Computation for Complex Optimization in the Energy Domain at WCCI 2018
+- Organizers of the <a href="{{ site.baseurl }}/energy">Special Session on Evolutionary Computation for Complex Optimization in the Energy Domain at WCCI 2018
 - Organizers of the <a href="http://www.cemisg.org/">4th International Workshop on Computational Energy Management in Smart Grids (CEMiSG) 2018</a>
 - Chair of the <a href="http://www.evostar.org/">EvoENERGY track on evolutionary algorithms in energy applications at the EvoStar 2018</a>
 	
