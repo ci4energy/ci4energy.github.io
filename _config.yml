@@ -10,3 +10,6 @@ github_username: paul-kaufmann
 
 # Build settings
 markdown: kramdown
+
+# menu pages
+showpages: activities
