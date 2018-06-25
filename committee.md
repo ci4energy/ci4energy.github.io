@@ -22,7 +22,9 @@ weight: 40
 - <a href="http://www.aifb.kit.edu/web/Ingo_Mauser/en">Ingo Mauser</a>, Karlsruhe Institute of Technology, AIFB
 - <a href="http://cs.adelaide.edu.au/%7Efrank">Frank Neumann</a>, Optimisation and Logistics Group, The University of Adelaide
 - <a href="http://filipesaraiva.info/">Filipe Saraiva</a>, Faculdade de Computação, Universidade Federal do Pará
+- João Soares, GECAD-Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development, Engineering Institute – Polytechnic of Porto, Portugal
 - <a href="http://www.dii.univpm.it/stefano.squartini">Stefano Squartini</a>, Dipartimento di Ingegneria dell'Informazione - Università Politecnica delle Marche
 - <a href="http://www.ece.nus.edu.sg/stfpage/elesd/">Dipti Srinivasan</a>, Department of Electrical &amp; Computer Engineering, National University of Singapore
+- Zita Vale, GECAD-Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development, Engineering Institute – Polytechnic of Porto, Portugal
 - <a href="http://cs.adelaide.edu.au/%7Emarkus">Markus Wagner</a>, Optimisation and Logistics Group, The University of Adelaide (Chair 2014 &amp; 2015)
 
