@@ -7,12 +7,12 @@ weight: 10
 ---
 
 <h3><b>Upcoming events</b></h3>
-- Organizers of the <a href="{{ site.baseurl }}/energy">Special Session on Evolutionary Computation for Complex Optimization in the Energy Domain at WCCI 2018
-- Organizers of the <a href="http://www.cemisg.org/">4th International Workshop on Computational Energy Management in Smart Grids (CEMiSG) 2018</a>
+- Organizers of the <a href="http://www.cemisg.org/">5th International Workshop on Computational Energy Management in Smart Grids (CEMiSG) 2018</a>
 - Chair of the <a href="http://www.evostar.org/">EvoENERGY track on evolutionary algorithms in energy applications at the EvoStar 2018</a>
 	
 <h3><b>Past activities</b></h3>
 
+- Organizers of the <a href="{{ site.baseurl }}/energy">Special Session on Evolutionary Computation for Complex Optimization in the Energy Domain at WCCI 2018
 - Organizers of the <a href="{{ site.baseurl }}/smartEA"> Workshop on Evolutionary Algorithms for Smart Grids (SmartEA) at ​GECCO 2017 in Berlin, July 15th-19th 2017</a>
 - Organizers of the <a href="http://www.cemisg.org/">4th International Workshop on Computational Energy Management in Smart Grids (CEMiSG) 2017
 - Chair of the <a href="http://www.evostar.org/2017/cfp_evoenergy.php">EvoENERGY track on evolutionary algorithms in energy applications at the EvoStar 2017
