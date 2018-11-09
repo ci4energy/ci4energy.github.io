@@ -6,7 +6,7 @@ showinheader: true
 weight: 50
 ---
 <center>
-<h2><b><a href="http://www.gecad.isep.ipp.pt/ieee-CEC2019/CEC2019-SS/">CEC'19 Special Session on<br><br>Evolutionary algorithms for Complex Optimization<br>in the Energy Domain<br><br>at ​the IEEE Congress on Evolutionary Computation 2019</a></b></h2>
+<h2><b><a href="http://www.gecad.isep.ipp.pt/ieee-CEC2019/CEC2019-SS/">CEC'19 Special Session on<br><br>Evolutionary Algorithms for Complex Optimization<br>in the Energy Domain<br><br>at ​the IEEE Congress on Evolutionary Computation 2019</a></b></h2>
 
 <!-- <h3><a href="{{ site.baseurl }}/assets/SmartEA-CfP.pdf">Call for submissions as PDF</a></h3> -->
 
