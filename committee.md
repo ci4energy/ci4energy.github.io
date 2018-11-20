@@ -17,7 +17,6 @@ weight: 40
 <h3><b>Members:</b></h3>
 
 - <a href="http://diku.dk/english/staff/?pure=en/persons/473301">Fabian Gieseke</a>, Department of Computer Science, University of Copenhagen
-- <a href="http://www.ci.uni-oldenburg.de/">Oliver Kramer</a>, Computational Intelligence Group, Carl v. Ossietzky Universität (Chair 2016)
 - <a href="http://www.wiwi.uni-siegen.de/technologiemanagement/">Ulf Lorenz</a>, Optimization under Uncertainty and Technical Operations Research
 - <a href="http://www.aifb.kit.edu/web/Ingo_Mauser/en">Ingo Mauser</a>, Karlsruhe Institute of Technology, AIFB
 - <a href="http://cs.adelaide.edu.au/%7Efrank">Frank Neumann</a>, Optimisation and Logistics Group, The University of Adelaide
