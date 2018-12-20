@@ -88,7 +88,7 @@ showinheader: true -->
 <h3><b>Organizers</b></h3>
 
 <div style="float: left">
-    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/oliver.jpeg" alt="Oliver" height="200" hspace="10" vspace="10"></a>
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/fernando.jpeg" alt="Fernando" height="200" hspace="10" vspace="10"></a>
 </div>
 
 <b>Fernando Lezama</b>, GECAD-Polytechnic of Porto, Portugal
@@ -100,7 +100,7 @@ More information can be found at: <a href="https://www.researchgate.net/profile/
 
 
 <div style="float: left">
-    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/mw-cyclists.jpeg" alt="Markus" height="200" hspace="10" vspace="10"></a>
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/joao.jpeg" alt="Joao" height="200" hspace="10" vspace="10"></a>
 </div>
 
 <b>Joao Soares</b>, GECAD-Polytechnic of Porto, Portugal
@@ -110,7 +110,7 @@ João Soares has a BSc in computer science and a master in Electrical Engineerin
 More information can be found at: <a href="http://cs.adelaide.edu.au/~markus">here</a>
 
 <div style="float: left">
-    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/FrankCS.jpeg" alt="Frank" height="200" hspace="10" vspace="10"></a>
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/paul.jpg" alt="Paul" height="200" hspace="10" vspace="10"></a>
 </div>
 
 <a>Paul Kaufmann</a>, University of Paderborn, Germany
@@ -121,7 +121,7 @@ More information can be found at: <a href="https://sites.google.com/site/paulkau
 
 
 <div style="float: left">
-    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/paul.jpg" alt="Paul" height="200" hspace="10" vspace="10"></a>
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/Zita.jpg" alt="Zita" height="200" hspace="10" vspace="10"></a>
 </div>
 
 ​<b>Zita Vale</b>, Polytechnic of Porto, Portugal
