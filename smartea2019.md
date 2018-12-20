@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SmartEA'19
-permalink: /smartEA/
+permalink: /smartEA19/
 <!-- showinheader: true -->
 weight: 50
 ---
@@ -69,7 +69,6 @@ The workshop will take place on Sunday, July 16, 14:00-18:00, Bernstein
 |       |       | Challenges and perspectives                              |                     |
 | 16:40 | 17:50 | Panel discussion                                         | organizers          |
 | 17:50 | 18:00 | workshop closing                                         | organizers          |
-––>
 
 <h3><b>Technical Program Committee</b></h3>
 
@@ -81,6 +80,8 @@ The workshop will take place on Sunday, July 16, 14:00-18:00, Bernstein
 - Filipe de Oliveira Saraiva, Universidade Federal do Pará, Brasil
 - Nataliia Sergiienko, University of Adelaide, Australia
 - Markus Wagner, University of Adelaide, Australia
+
+––>
 
 <h3><b>Organizers</b></h3>
 
