@@ -26,4 +26,7 @@ weight: 40
 - <a href="http://www.ece.nus.edu.sg/stfpage/elesd/">Dipti Srinivasan</a>, Department of Electrical &amp; Computer Engineering, National University of Singapore
 - <a href="http://www.gecad.isep.ipp.pt">Zita Vale</a>, GECAD-Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development, Engineering Institute – Polytechnic of Porto, Portugal
 - <a href="http://cs.adelaide.edu.au/%7Emarkus">Markus Wagner</a>, Optimisation and Logistics Group, The University of Adelaide (Chair 2014 &amp; 2015)
+- <a href="https://www.researchgate.net/profile/Tobias_Rodemann">Tobias Rodemann</a>, Honda Research Institute Europe GmbH
+- <a href="https://www.researchgate.net/scientific-contributions/70076038_Steffen_Limmer">Steffen Limmer</a>, Honda Research Institute Europe GmbH
+
 
