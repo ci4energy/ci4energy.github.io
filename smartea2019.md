@@ -15,11 +15,13 @@ weight: 50
 <h3><b>Description and Topics</b></h3>
 
 
-Sustainability is of great importance due to increasing demands and limited resources worldwide. In particular, in the field of energy production and consumption, methods are required that allow to phase generation and load efficiently. The vast extension of renewable and distributed energy sources and the growing information infrastructure enable a fine screening of producers and consumers, but require the development of tools for the analysis and understanding of large datasets about the energy grid. Key technologies in future ecological, economical and reliable energy systems are energy prediction of renewable resources, prediction of consumption as well as efficient planning and control strategies for network stability.
+Sustainability is of significant importance due to increasing demands and limited resources worldwide. In particular, in the field of energy production and consumption, methods are required that allow to phase generation and load efficiently. The vast extension of renewable and distributed energy sources and the growing information infrastructure enable a fine screening of producers and consumers but require the development of tools for the analysis and understanding of large datasets about the energy grid. Key technologies in future ecological, economical and reliable energy systems are energy prediction of renewable resources, prediction of consumption as well as efficient planning and control strategies for network stability.
 
 To enable financially and ecologically viable projects, optimization methods have taken over a key role for planning, optimizing and forecasting sustainable systems. Typically, these approaches make use of domain knowledge in order to achieve the required goal. Even in the case that explicit domain knowledge is not available, specialized methods can also handle large raw numerical sensory data directly, process them, generate reliable and just-in-time responses, and have high fault tolerance.
 
-The main goal of this workshop is to promote the research on evolutionary algorithms in smart grids. We are seeking innovative research articles including, but not limited to the following areas:
+<h3><b>Scope and Topics</b></h3>
+
+Following the success of the previous edition at GECCO2017 “Workshop on Evolutionary Algorithms for Smart Grids (SmartEA)” (http://ci4energy.uni-paderborn.de/smartEA/), the main goal of this workshop is to promote the research on evolutionary algorithms in smart grids. We are seeking innovative research articles including, but not limited to the following areas:
 
 - Energy generation and load forecasting
 - Demand side and smart home energy management
@@ -28,7 +30,6 @@ The main goal of this workshop is to promote the research on evolutionary algori
 - Smart micro-grids
 
 Submitted work should put an emphasis on modeling of solution spaces, on finding optimal representations and operators for evolutionary algorithms, and on employing and developing advanced evolutionary heuristics, e.g., for step size control, constraint handling, dynamic solution spaces, and multiple conflictive objectives.
-
 
 <h3><b>Important Dates</b></h3>
 
@@ -48,7 +49,7 @@ We encourage authors to submit early and in-progress work. The workshop emphasis
 
 All papers should be in ACM (Association for Computing Machinery) format. Please see <a href="http://gecco-2017.sigevo.org"> GECCO 2017 </a> for details. Papers should not be anonymised. All papers should be submitted in PDF format to <a href="mailto:paul.kaufmann@uni-paderborn.de">Paul Kaufmann</a>. All accepted papers will will appear in the GECCO workshop volume.
 
-<!––
+
 <h3><b>Program</b></h3>
 
 The workshop will take place on Sunday, July 16, 14:00-18:00, Bernstein
@@ -81,7 +82,6 @@ The workshop will take place on Sunday, July 16, 14:00-18:00, Bernstein
 - Nataliia Sergiienko, University of Adelaide, Australia
 - Markus Wagner, University of Adelaide, Australia
 
-––>
 
 <h3><b>Organizers</b></h3>
 
@@ -89,26 +89,21 @@ The workshop will take place on Sunday, July 16, 14:00-18:00, Bernstein
     <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/oliver.jpeg" alt="Oliver" height="200" hspace="10" vspace="10"></a>
 </div>
 
-<b>Oliver Kramer</b>, Carl von Ossietzky University Oldenburg, Germany
+<b>Fernando Lezama</b>, GECAD-Polytechnic of Porto, Portugal
 
-Oliver Kramer is Assistant Professor (Juniorprofessor) for Computational Intelligence at the University of Oldenburg in Germany. His main research interests are machine learning, evolutionary optimization, and their application to real-world domains. He received a PhD from the University of Paderborn, Germany, in 2008. After a postdoc stay at the TU Dortmund, Germany, from 2007 to 2009, and the International Computer Science Institute in Berkeley (USA) in 2010, he became Juniorprofessor at the Bauhaus University Weimar, later Juniorprofessor at the Department of Computing Science at the University of Oldenburg, where he finished his habilitation in 2013.
+Fernando Lezama received an M.Sc. degree (with Honors) in Electronic Engineering (2011), and a Ph.D. in ITCs (2014) both from the Monterrey Institute of Technology and Higher Education (ITESM), Mexico. Currently, he is a researcher at GECAD, Polytechnic of Porto, Portugal, where he works in the development of intelligent systems for optimization in smart grids. His research interests include computational intelligence, evolutionary computation, and optimization of smart grids and optical networks.
 
 
-More information can be found at: <a href="http://www.ci.uni-oldenburg.de">here</a>
+More information can be found at: <a href="https://www.researchgate.net/profile/Fernando_Lezama2">here</a>
 
 
 <div style="float: left">
     <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/mw-cyclists.jpeg" alt="Markus" height="200" hspace="10" vspace="10"></a>
 </div>
 
-<b>Markus Wagner</b>, University of Adelaide, Australia
+<b>Joao Soares</b>, GECAD-Polytechnic of Porto, Portugal
 
-Markus Wagner is a Senior Lecturer at the School of Computer Science, University of Adelaide, Australia. He has done his PhD studies at the Max Planck
-Institute for Informatics in Saarbruecken, Germany and at the University of
-Adelaide, Australia. His research topics range from mathematical runtime
-analysis of heuristic optimisation algorithms and theory-guided algorithm
-design to applications of heuristic methods to renewable energy production,
-professional team cycling and software engineering. So far, he has been a program committee member 29 times, and he has written over 60 articles with over 60 different co-authors. He has chaired several education-related committees within the IEEE CIS, and he is co-founder and current co-chair of the organising task force.
+João Soares has a BSc in computer science and a master in Electrical Engineering in Portugal, namely Polytechnic of Porto. He attained his PhD degree in Electrical and Computer Engineering at UTAD university. He his a researcher at GECAD – Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development. His research interests include optimization in power and energy systems, including heuristic, hybrid and classical optimization.
 
 More information can be found at: <a href="http://cs.adelaide.edu.au/~markus">here</a>
 
@@ -116,21 +111,21 @@ More information can be found at: <a href="http://cs.adelaide.edu.au/~markus">he
     <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/FrankCS.jpeg" alt="Frank" height="200" hspace="10" vspace="10"></a>
 </div>
 
-​<b>Frank Neumann</b>, University of Adelaide, Australia
+<a>Paul Kaufmann</a>, University of Paderborn, Germany
 
-Frank Neumann received his diploma and Ph.D. from the Christian-Albrechts-University of Kiel in 2002 and 2006, respectively. Currently, he is an associate professor and leader of the Optimisation and Logistics Group at the School of Computer Science, The University of Adelaide, Australia. From 2008-2010, he has been the coordinator of the area 'Bio-inspired Computation' at the Max Planck Institute for Informatics, Saarbruecken, Germany. With Kenneth De Jong he organised ACM FOGA 2013 in Adelaide and together with Carsten Witt he has written the textbook 'Bioinspired Computation in Combinatorial Optimization - Algorithms and Their Computational Complexity' published by Springer. He is vice-chair of the IEEE Task Force on Theoretical Foundations of Bio-inspired Computation, chair of the IEEE Task Force on Evolutionary Scheduling and Combinatorial Optimization, and has guest-edited special issues for the journals Algorithmica, Theoretical Computer Science, and Evolutionary Computation (MIT Press). Furthermore, he has organized several tracks and special sessions at IEEE CEC and GECCO. In his work, he considers algorithmic approaches in particular for combinatorial and multi-objective optimization problems and focuses on theoretical aspects of evolutionary computation as well as high impact applications in the areas of renewable energy and sports.
+Paul Kaufmann is a Postdoctoral Research Fellow at the University of Paderborn. His main research interests are evolutionary algorithms, signal classification, and their application to adaptive and reconfigurable hardware systems. After receiving a Ph.D. in Evolvable Hardware (2013) from the University of Paderborn, he stayed at the Fraunhofer Institute for Wind Energy and Energy System Technology and the Energy Management and Power System Operation Group at the University of Kassel from 2012 to 2013. He is organizing the annual EvoENERGY Workshop at EvoStar, heading the IEEE CIS Educational Material subcommittee, has co-founded and is heading the IEEE Task Force on Computational Intelligence in the Energy Domain, and is member of the IEEE Task Force on Evolvable Hardware.
 
-
-More information can be found <a href ="http://cs.adelaide.edu.au/~frank">here</a>
-
+More information can be found at: <a href="https://sites.google.com/site/paulkaufmann/">here</a>
 
 
 <div style="float: left">
     <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/paul.jpg" alt="Paul" height="200" hspace="10" vspace="10"></a>
 </div>
 
-<a>Paul Kaufmann</a>, University of Paderborn, Germany
+​<b>Zita Vale</b>, Polytechnic of Porto, Portugal
 
-Paul Kaufmann is a Postdoctoral Research Fellow at the University of Paderborn. His main research interests are evolutionary algorithms, signal classification, and their application to adaptive and reconfigurable hardware systems. After receiving a Ph.D. in Evolvable Hardware (2013) from the University of Paderborn, he stayed at the Fraunhofer Institute for Wind Energy and Energy System Technology and the Energy Management and Power System Operation Group at the University of Kassel from 2012 to 2013. He is organizing the annual EvoENERGY Workshop at EvoStar, heading the IEEE CIS Educational Material subcommittee, has co-founded and is heading the IEEE Task Force on Computational Intelligence in the Energy Domain, and is member of the IEEE Task Force on Evolvable Hardware.
+Zita Vale is full professor at the Polytechnic Institute of Porto and the director of the Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development (GECAD). She received her diploma in Electrical Engineering in 1986 and her PhD in 1993, both from University of Porto. Zita Vale works in the area of Power and Energy Systems, with special interest in the application of Artificial Intelligence techniques. She has been involved in more than 50 funded projects related to the development and use of Knowledge-Based systems, Multi-Agent systems, Genetic Algorithms, Neural networks, Particle Swarm Intelligence, Constraint Logic Programming and Data Mining. 
+She published over 800 works, including more than 100 papers in international scientific journals, and more than 500 papers in international scientific conferences.
 
-More information can be found at: <a href="https://sites.google.com/site/paulkaufmann/">here</a>
+
+More information can be found <a href ="http://cs.adelaide.edu.au/~frank">here</a>
