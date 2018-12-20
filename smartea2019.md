@@ -119,9 +119,9 @@ More information can be found at: <a href="https://www.linkedin.com/in/joao-soar
     <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/paul.jpg" alt="Paul" height="200" hspace="10" vspace="10"></a>
 </div>
 
-<a>Paul Kaufmann</a>, University of Paderborn, Germany
+<a>Paul Kaufmann</a>, Mainz University, Germany
 
-Paul Kaufmann is a Postdoctoral Research Fellow at the University of Paderborn. His main research interests are evolutionary algorithms, signal classification, and their application to adaptive and reconfigurable hardware systems. After receiving a Ph.D. in Evolvable Hardware (2013) from the University of Paderborn, he stayed at the Fraunhofer Institute for Wind Energy and Energy System Technology and the Energy Management and Power System Operation Group at the University of Kassel from 2012 to 2013. He is organizing the annual EvoENERGY Workshop at EvoStar, heading the IEEE CIS Educational Material subcommittee, has co-founded and is heading the IEEE Task Force on Computational Intelligence in the Energy Domain, and is member of the IEEE Task Force on Evolvable Hardware.
+Paul Kaufmann is an Assistant Professor at the Mainz University, Germany. His main research interests are evolutionary algorithms, signal classification, and their application to adaptive and reconfigurable hardware systems. After receiving a Ph.D. in Evolvable Hardware (2013) from the University of Paderborn, he stayed at the Fraunhofer Institute for Wind Energy and Energy System Technology and the Energy Management and Power System Operation Group at the University of Kassel from 2012 to 2013. He is organizing the annual EvoENERGY Workshop at EvoStar, heading the IEEE CIS Educational Material subcommittee, has co-founded and is heading the IEEE Task Force on Computational Intelligence in the Energy Domain, and is member of the IEEE Task Force on Evolvable Hardware.
 
 More information can be found at: <a href="https://sites.google.com/site/paulkaufmann/">here</a>
 
