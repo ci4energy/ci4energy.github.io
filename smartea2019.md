@@ -8,12 +8,11 @@ weight: 50
 <center>
 <h2><b><a href="https://gecco-2019.sigevo.org/index.html/Workshops#id_Workshop%20on%20Evolutionary%20Algorithms%20for%20Smart%20Grids%20(SmartEA)">2nd Workshop on Evolutionary Algorithms for Smart Grids (SmartEA)<br>at ​GECCO 2019 in Prague, July 13th-17th 2019</a></b></h2>
 
-<h3><a href="{{ site.baseurl }}/assets/SmartEA-CfP.pdf">Call for submissions as PDF</a></h3>
+<h3><a href="{{ site.baseurl }}/assets/SmartEA2019-CfP.pdf">Call for submissions as PDF</a></h3>
 
 </center>
 
 <h3><b>Description and Topics</b></h3>
-
 
 Sustainability is of significant importance due to increasing demands and limited resources worldwide. In particular, in the field of energy production and consumption, methods are required that allow to phase generation and load efficiently. The vast extension of renewable and distributed energy sources and the growing information infrastructure enable a fine screening of producers and consumers but require the development of tools for the analysis and understanding of large datasets about the energy grid. Key technologies in future ecological, economical and reliable energy systems are energy prediction of renewable resources, prediction of consumption as well as efficient planning and control strategies for network stability.
 
@@ -33,21 +32,28 @@ Submitted work should put an emphasis on modeling of solution spaces, on finding
 
 <h3><b>Important Dates</b></h3>
 
-- Submission deadline: 	April 1st, 2017
-- Notification of acceptance: 	April 15th, 2017
-- Camera-ready submission: 	April 27th, 2017
-- Conference: July 15-19, 2017
+These dates are strict, no extensions will be granted
+
+- Submission opening: February 27, 2019
+- Submission deadline: April 3, 2019
+- Notification of acceptance: April 17, 2019
+- Camera-Ready Material: April 24, 2019
+- Author registration deadline: April 24, 2019
 
 <h3><b>Submission Guidelines</b></h3>
 
-We invite submissions of two types of paper:
+All papers should be in ACM (Association for Computing Machinery) format. Please see <a href="https://gecco-2019.sigevo.org/index.html/Workshops"> GECCO 2019 </a> for details.
 
-- Research papers: up to 8 pages long
-- Position papers: 2 pages long
+Workshop papers must be submitted using the GECCO submission site. After login, the authors need to select the "Workshop Paper" submission form. In the form, the authors must select the workshop they are submitting to. To see a sample of the "Workshop Paper" submission form go to GECCO's submission site and chose "Sample Submission Forms".
 
-We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion.
+Submitted papers must not exceed 8 pages (excluding references) and are required to be in compliance with the GECCO 2019 Papers Submission Instructions. It is recommended to use the same templates as the papers submitted to the main tracks. It is not required to remove the author information if the workshop the paper is submitted to does not have a double-blind review process (please, check the workshop description or the workshop organizers on this).
 
-All papers should be in ACM (Association for Computing Machinery) format. Please see <a href="https://gecco-2019.sigevo.org"> GECCO 2019 </a> for details. Papers should not be anonymised. All papers should be submitted in PDF format to <a href="mailto:flzcl@isep.ipp.pt">Fernando Lezama</a>. All accepted papers will will appear in the GECCO workshop volume.
+All accepted papers will be presented at the corresponding workshop and appear in the GECCO Conference Companion Proceedings. By submitting a paper, the author(s) agree that, if their paper is accepted, they will:
+
+Submit a final, revised, camera-ready version to the publisher on or before the camera-ready deadline
+Register at least one author before April 24, 2019 to attend the conference
+Attend the conference (at least one author)
+Present the accepted paper at the conference
 
 <!-- 
 
@@ -107,7 +113,7 @@ More information can be found at: <a href="https://www.researchgate.net/profile/
 
 João Soares has a BSc in computer science and a master in Electrical Engineering in Portugal, namely Polytechnic of Porto. He attained his PhD degree in Electrical and Computer Engineering at UTAD university. He his a researcher at GECAD – Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development. His research interests include optimization in power and energy systems, including heuristic, hybrid and classical optimization.
 
-More information can be found at: <a href="http://cs.adelaide.edu.au/~markus">here</a>
+More information can be found at: <a href="https://www.linkedin.com/in/joao-soares-20b7694/">here</a>
 
 <div style="float: left">
     <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/paul.jpg" alt="Paul" height="200" hspace="10" vspace="10"></a>
@@ -130,4 +136,4 @@ Zita Vale is full professor at the Polytechnic Institute of Porto and the direct
 She published over 800 works, including more than 100 papers in international scientific journals, and more than 500 papers in international scientific conferences.
 
 
-More information can be found <a href ="http://cs.adelaide.edu.au/~frank">here</a>
+More information can be found <a href ="www.linkedin.com/in/zitavale">here</a>
