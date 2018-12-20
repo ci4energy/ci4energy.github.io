@@ -6,7 +6,7 @@ permalink: /smartEA/
 weight: 50
 ---
 <center>
-<h2><b><a href="https://gecco-2019.sigevo.org/index.html/Workshops#id_Workshop%20on%20Evolutionary%20Algorithms%20for%20Smart%20Grids%20(SmartEA)">2do Workshop on Evolutionary Algorithms for Smart Grids (SmartEA)<br>at ​GECCO 2019 in Prague, July 13th-17th 2019</a></b></h2>
+<h2><b><a href="https://gecco-2019.sigevo.org/index.html/Workshops#id_Workshop%20on%20Evolutionary%20Algorithms%20for%20Smart%20Grids%20(SmartEA)">2nd Workshop on Evolutionary Algorithms for Smart Grids (SmartEA)<br>at ​GECCO 2019 in Prague, July 13th-17th 2019</a></b></h2>
 
 <h3><a href="{{ site.baseurl }}/assets/SmartEA-CfP.pdf">Call for submissions as PDF</a></h3>
 
@@ -48,7 +48,7 @@ We encourage authors to submit early and in-progress work. The workshop emphasis
 
 All papers should be in ACM (Association for Computing Machinery) format. Please see <a href="http://gecco-2017.sigevo.org"> GECCO 2017 </a> for details. Papers should not be anonymised. All papers should be submitted in PDF format to <a href="mailto:paul.kaufmann@uni-paderborn.de">Paul Kaufmann</a>. All accepted papers will will appear in the GECCO workshop volume.
 
-
+<!––
 <h3><b>Program</b></h3>
 
 The workshop will take place on Sunday, July 16, 14:00-18:00, Bernstein
@@ -69,7 +69,7 @@ The workshop will take place on Sunday, July 16, 14:00-18:00, Bernstein
 |       |       | Challenges and perspectives                              |                     |
 | 16:40 | 17:50 | Panel discussion                                         | organizers          |
 | 17:50 | 18:00 | workshop closing                                         | organizers          |
-
+––>
 
 <h3><b>Technical Program Committee</b></h3>
 
