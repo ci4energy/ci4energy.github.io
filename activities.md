@@ -9,6 +9,7 @@ weight: 10
 <h3><b>Upcoming events</b></h3>
 - Organizers of the <a href="{{ site.baseurl }}/energy">Special Session on Evolutionary Algorithms for Complex Optimization in the Energy Domain at CEC 2019</a>
 - Organizers of the <a href="{{ site.baseurl }}/smartEA19"> Workshop on Evolutionary Algorithms for Smart Grids (SmartEA) at GECCO 2019 in Prague, July 13th-17th 2019</a>
+- Organizers of the <a href="http://www.gecad.isep.ipp.pt/ERM2019-Competition/"> joint CEC and GECCO 2019 Competition on Evolutionary Computation in Uncertain Environments: A Smart Grid Application</a>
 
 
 	
