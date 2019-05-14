@@ -16,6 +16,8 @@ weight: 10
 <h3><b>Past activities</b></h3>
 
 <b>- 2018 </b>
+
+- Organization Committee ACM e-Energy 2018 conference [link](http://conferences.sigcomm.org/eenergy/2018/).
 - Chair of the <a href="http://www.evostar.org/">EvoENERGY track on evolutionary algorithms in energy applications at the EvoStar 2018</a>
 - Organizers of the <a href="http://www.gecad.isep.ipp.pt/IEEE-SS-CEC-WCCI2018/">Special Session on Evolutionary Computation for Complex Optimization in the Energy Domain at WCCI 2018</a>
 - Organizers of the <a href="http://www.cemisg.org/">5th International Workshop on Computational Energy Management in Smart Grids (CEMiSG) at WCCI 2018</a>
