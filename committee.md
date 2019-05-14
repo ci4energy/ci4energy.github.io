@@ -8,11 +8,11 @@ weight: 40
 
 <h3><b>Chair:</b></h3>
 
-- <a href="https://ci.bwl.uni-mainz.de/">Paul Kaufmann</a>, Computational Intelligence Group, Mainz University
+- <a href="http://www.gecad.isep.ipp.pt">Fernando Lezama</a>, GECAD-Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development, Engineering Institute – Polytechnic of Porto, Portugal
 
 <h3><b>Co-Chairs:</b></h3>
 
-- <a href="http://www.gecad.isep.ipp.pt">Fernando Lezama</a>, GECAD-Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development, Engineering Institute – Polytechnic of Porto, Portugal
+- <a href="https://ci.bwl.uni-mainz.de/">Paul Kaufmann</a>, Computational Intelligence Group, Mainz University
 
 <h3><b>Members:</b></h3>
 
