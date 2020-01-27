@@ -7,13 +7,17 @@ weight: 10
 ---
 
 <h3><b>Upcoming events</b></h3>
-- Organizers of the <a href="{{ site.baseurl }}/energy">Special Session on Evolutionary Algorithms for Complex Optimization in the Energy Domain at CEC 2019</a>
-- Organizers of the <a href="{{ site.baseurl }}/smartEA19"> Workshop on Evolutionary Algorithms for Smart Grids (SmartEA) at GECCO 2019 in Prague, July 13th-17th 2019</a>
-- Organizers of the <a href="http://www.gecad.isep.ipp.pt/ERM2019-Competition/"> joint CEC and GECCO 2019 Competition on Evolutionary Computation in Uncertain Environments: A Smart Grid Application</a>
+- Organizers of the <a href="http://www.gecad.isep.ipp.pt/ERM-competitions/ss2020/">CEC-26 Evolutionary Algorithms for Complex Optimization in the Energy Domain at WCCI 2020</a>
+- Organizers of the <a href="http://www.gecad.isep.ipp.pt/ERM-competitions/2020-2/"> joint CEC and GECCO 2020 competition - Evolutionary Computation in the Energy Domain: Smart Grid Applications</a>
 
 
 	
 <h3><b>Past activities</b></h3>
+
+<b>- 2019 </b>
+- Organizers of the <a href="{{ site.baseurl }}/energy">Special Session on Evolutionary Algorithms for Complex Optimization in the Energy Domain at CEC 2019</a>
+- Organizers of the <a href="{{ site.baseurl }}/smartEA19"> Workshop on Evolutionary Algorithms for Smart Grids (SmartEA) at GECCO 2019 in Prague, July 13th-17th 2019</a>
+- Organizers of the <a href="http://www.gecad.isep.ipp.pt/ERM2019-Competition/"> joint CEC and GECCO 2019 Competition on Evolutionary Computation in Uncertain Environments: A Smart Grid Application</a>
 
 <b>- 2018 </b>
 
