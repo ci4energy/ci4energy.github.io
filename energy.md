@@ -46,8 +46,7 @@ Distributed evolutionary approaches in the energy domain
 
 <h3><b>Submit a paper to the special session:</b></h3>
 
-- Submission link: TBA 
-<!--<a href="https://ieee-cis.org/conferences/cec2020/upload.php">https://ieee-cis.org/conferences/cec2020/upload.php</a>-->
+- Submission link: <a href="https://ieee-cis.org/conferences/cec2020/upload.php">https://ieee-cis.org/conferences/cec2020/upload.php</a>
 - Follow the webpage indications and fill all the fields in the form.
 - Select "CEC-26 EvolutionaryAlgorithms for Complex Optimization in the Energy Domain" in Main Research Topic during submission
 
@@ -57,7 +56,7 @@ Distributed evolutionary approaches in the energy domain
 - <a href="mailto:flz@isep.ipp.pt">Fernando Lezama</a>, GECAD, Polytechnic of Porto
 - <a href="mailto:jan@isep.ipp.pt">Joao Soares</a>, GECAD, Polytechnic of Porto
 - <a href="mailto:zav@isep.ipp.pt">Zita Vale</a>, Polytechnic of Porto
-- <a href="mailto:markus.wagner@adelaide.edu.au">Markus Wagner</a>, Adelaide University
+- <a href="mailto:ruben@dee.feis.unesp.br">Ruben Romero</a>, UNESP, Ilha Solteira
 
 
 
