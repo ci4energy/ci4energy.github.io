@@ -28,12 +28,13 @@ weight: 40
 - <a href="https://publons.com/researcher/1546333/leonardo-h-macedo/">Leonardo H. Macedo</a>, São Paulo State University
 - <a href="https://publons.com/researcher/1880754/ruben-romero">Ruben Romero</a>, São Paulo State University
 - <a href="https://www.researchgate.net/profile/Ansel_Rodriguez_Gonzalez">Ansel Y. Rodríguez González</a>, CONACYT / CICESE-UT3
+{% comment %}
 
-<!--
 - <a href="http://www.ece.nus.edu.sg/stfpage/elesd/">Dipti Srinivasan</a>, Department of Electrical &amp; Computer Engineering, National University of Singapore
 - <a href="http://diku.dk/english/staff/?pure=en/persons/473301">Fabian Gieseke</a>, Department of Computer Science, University of Copenhagen
 - <a href="http://www.aifb.kit.edu/web/Ingo_Mauser/en">Ingo Mauser</a>, Karlsruhe Institute of Technology, AIFB
->
+
+{% endcomment %}
 
 
 
