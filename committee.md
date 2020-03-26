@@ -12,14 +12,14 @@ weight: 40
 
 <h3><b>Co-Chairs:</b></h3>
 
-- <a href="https://ci.bwl.uni-mainz.de/">Paul Kaufmann</a>, Computational Intelligence Group, Mainz University
+- <a href="http://www.gecad.isep.ipp.pt">João Soares</a>, GECAD-Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development, Engineering Institute – Polytechnic of Porto, Portugal
 
 <h3><b>Members:</b></h3>
 
+- <a href="https://ci.bwl.uni-mainz.de/">Paul Kaufmann</a>, Computational Intelligence Group, Mainz University (Chair 2017 &amp; 2018)
 - <a href="http://www.wiwi.uni-siegen.de/technologiemanagement/">Ulf Lorenz</a>, Optimization under Uncertainty and Technical Operations Research
 - <a href="http://cs.adelaide.edu.au/%7Efrank">Frank Neumann</a>, Optimisation and Logistics Group, The University of Adelaide
 - <a href="http://filipesaraiva.info/">Filipe Saraiva</a>, Faculdade de Computação, Universidade Federal do Pará
-- <a href="http://www.gecad.isep.ipp.pt">João Soares</a>, GECAD-Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development, Engineering Institute – Polytechnic of Porto, Portugal
 - <a href="http://www.dii.univpm.it/stefano.squartini">Stefano Squartini</a>, Dipartimento di Ingegneria dell'Informazione - Università Politecnica delle Marche
 - <a href="http://www.gecad.isep.ipp.pt">Zita Vale</a>, GECAD-Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development, Engineering Institute – Polytechnic of Porto, Portugal
 - <a href="http://cs.adelaide.edu.au/%7Emarkus">Markus Wagner</a>, Optimisation and Logistics Group, The University of Adelaide (Chair 2014 &amp; 2015)
