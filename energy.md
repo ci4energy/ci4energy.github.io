@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Energy@WCCI'20
+title: Energy@CEC'21
 permalink: /energy/
 showinheader: true
 weight: 50
 ---
 <center>
-<h2><b><a href="http://www.gecad.isep.ipp.pt/ERM-competitions/ss2020/">WCCI'20 CEC-26 Special Session on<br><br>Evolutionary Algorithms for Complex Optimization<br>in the Energy Domain<br><br>at ​the IEEE World Congress on Computational Intelligence 2020</a></b></h2>
+<h2><b><a href="http://www.gecad.isep.ipp.pt/ERM-competitions/ss2021/">CEC'21 CEC-44 Special Session on<br><br>Evolutionary Algorithms for Complex Optimization<br>in the Energy Domain<br><br>at ​the IEEE CONGRESS ON EVOLUTIONARY COMPUTATION (CEC) 2021</a></b></h2>
 
 <!-- <h3><a href="{{ site.baseurl }}/assets/SmartEA-CfP.pdf">Call for submissions as PDF</a></h3> -->
 
@@ -38,17 +38,17 @@ Distributed evolutionary approaches in the energy domain
 
 
 <h3><b>Important Dates</b></h3>
-- Paper Submission Deadline: January 30, 2020
-- Paper Acceptance Notification Date: March 15, 2020
-- Final Paper Submission & Early Registration Deadline: April 15, 2020
+- Paper Submission Deadline: 31 January 2021
+- Paper Acceptance Notification Date: 22 March 2021
+- Final Paper Submission & Early Registration Deadline: 7 April 2021
 - IEEE WCCI 2020: 19 – 24th July, 2020, Glasgow (UK)
 
 
 <h3><b>Submit a paper to the special session:</b></h3>
 
-- Submission link: <a href="https://ieee-cis.org/conferences/cec2020/upload.php">https://ieee-cis.org/conferences/cec2020/upload.php</a>
+- Submission link: <a href="https://ieee-cis.org/conferences/cec2021/upload.php">https://ieee-cis.org/conferences/cec2021/upload.php</a>
 - Follow the webpage indications and fill all the fields in the form.
-- Select "CEC-26 EvolutionaryAlgorithms for Complex Optimization in the Energy Domain" in Main Research Topic during submission
+- Select "SS-44 EvolutionaryAlgorithms for Complex Optimization in the Energy Domain" in Main Research Topic during submission
 
 
 
