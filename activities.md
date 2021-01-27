@@ -14,7 +14,7 @@ weight: 10
 <h3><b>Past activities</b></h3>
 
 <b>- 2020 </b>
--Special Issue <a href="https://www.gor-ev.de/arbeitsgruppen/or-in-ingenieurwissenschaften"> "Technical Operations Research" Optimization and Engineering Journal
+-Special Issue <a href="https://www.gor-ev.de/arbeitsgruppen/or-in-ingenieurwissenschaften"> "Technical Operations Research" Optimization and Engineering Journal</a>
 - Special Issue <a href="https://www.mdpi.com/journal/energies/special_issues/computational_intelligence_applications_smartGrid_optimization"> "Computational Intelligence Applications in SmartGrid Optimization “ ENERGIES journal</a>
 - Organizers of the <a href="http://www.gecad.isep.ipp.pt/ERM-competitions/ss2020/">SS CEC-26 Evolutionary Algorithms for Complex Optimization in the Energy Domain at WCCI 2020</a>
 - Organizers of the <a href="http://www.gecad.isep.ipp.pt/ERM-competitions/2020-2/"> joint CEC and GECCO 2020 competition - Evolutionary Computation in the Energy Domain: Smart Grid Applications</a>
