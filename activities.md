@@ -14,12 +14,13 @@ weight: 10
 <h3><b>Past activities</b></h3>
 
 <b>- 2020 </b>
+-Special Issue <a href="https://www.gor-ev.de/arbeitsgruppen/or-in-ingenieurwissenschaften"> "Technical Operations Research" Optimization and Engineering Journal
 - Special Issue <a href="https://www.mdpi.com/journal/energies/special_issues/computational_intelligence_applications_smartGrid_optimization"> "Computational Intelligence Applications in SmartGrid Optimization “ ENERGIES journal</a>
 - Organizers of the <a href="http://www.gecad.isep.ipp.pt/ERM-competitions/ss2020/">SS CEC-26 Evolutionary Algorithms for Complex Optimization in the Energy Domain at WCCI 2020</a>
 - Organizers of the <a href="http://www.gecad.isep.ipp.pt/ERM-competitions/2020-2/"> joint CEC and GECCO 2020 competition - Evolutionary Computation in the Energy Domain: Smart Grid Applications</a>
 - Organizers of the <a href="https://www.gor-ev.de/7-tor-workshop-vom-23-24-maerz-2020"> 7th workshop on Operations Research in Engineering in Siegen, Germany.</a>
 - Oranizers of the <a href="http://www.gecad.isep.ipp.pt/CENERGETIC/wp-content/uploads/2020/09/Programa%C3%A7%C3%A3o-Workshop.pdf"> II Workshop sobre Pesquisas em Veículos Elétricos (research in electric vehicles). 03-Oct-2020. UNESP, Brazil</a>
-- Organizers of the <a href"http://www.gecad.isep.ipp.pt/TrainingCourse/Program.pdf"> Free Online Training Course on Machine Learning, Agent-based Systems, and Optimization in Power and Energy. Friday 03-Jul-2020. Polytechnic of Porto, Portugal.</a>
+- Organizers of the <a href="http://www.gecad.isep.ipp.pt/TrainingCourse/Program.pdf"> Free Online Training Course on Machine Learning, Agent-based Systems, and Optimization in Power and Energy. Friday 03-Jul-2020. Polytechnic of Porto, Portugal.</a>
 
 <b>- 2019 </b>
 - Organizers of the <a href="{{ site.baseurl }}/energy">Special Session on Evolutionary Algorithms for Complex Optimization in the Energy Domain at CEC 2019</a>
