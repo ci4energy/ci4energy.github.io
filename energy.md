@@ -15,12 +15,15 @@ weight: 50
 <h3><b>Description and Topics</b></h3>
 
 
-The increasing energy demand that will be derived from developing countries is inevitable. Sustainability and efficiency are, therefore, critical taking into account the known limited world resources. Energy optimization and resource management play a substantial role in achieving the required sustainable growth. In fact, efficient approaches of energy optimization are highly relevant in the planning, operation, and control of energy systems. Many optimization problems in the energy domain are complex and exhibit features such as high-dimensionality, high number of constraints, lack of information, noisy and corrupted data. Also, sometimes such problems present time constraints requiring solutions in near real-time. Hence, achieving good and accurate solutions in a reasonable amount of time remains a challenge for several energy problems. Even the state-of-the-art exact solutions require alternative tweaks that often do not achieve the necessary algorithm performance and applicability. Evolutionary Computation (EC) has already demonstrated good performance in a wide range of applications in the energy domain and emerged to overcome issues of traditional algorithms to find feasible solutions in real-world applications. In fact, the ratio of EC applications in the energy field has been steadily increasing in the last few years and its importance in this field is just starting.
+The growing demand for energy that will come from developing countries is unavoidable. Therefore, sustainability and efficacy are important, taking into consideration the known finite resources of the earth. Energy efficiency and resource management play a substantial role in achieving the necessary sustainable development. In reality, in the planning, operation, and control of energy systems, effective energy optimization approaches are highly important.
 
-This special session is a follow-up of the previous editions in CEC. Papers concerning the application of EC to real-world problems in the energy domain are welcome. The problems can be focused on different parts of the energy chain (e.g., heating, cooling, and electricity supply) and different consumer targets (e.g., residential or industrial level). Problems dealing with uncertainty, dynamic environments, many-objectives, and large-scale search spaces are more than welcome. This special session aims to close the gap between energy engineers and the latest applications of EC to optimization problems in the energy domain. Besides, this special session is linked to the competition on “Smart grid optimization problems.” Therefore, participants are also welcome to submit the results of their algorithms to our session.
+Scope and Topics
 
-Topics should be related to EC in the energy domain including, but not limited to:
+This special session is a follow-up to the previous editions of the CEC. Papers on the application of the EC to real-world problems in the field of energy are welcome. Problems may be based in various areas of the energy chain (e.g. heating, cooling and power supply) and different market levels (e.g. household or industrial level). Problems of high complexity under uncertainty, dynamic objective settings, many-objectives, and large-scale search spaces are more than welcome. This special session aims to bridge the gap between energy engineers and the new EC applications for energy optimization problems. In addition, this particular session is related to the “Smart Grid Optimization Problems” competition. Participants are also welcome to send the results of their algorithms competition to our session.
 
+Topics should concern EC applications or theory in the energy domain including, but not limited to:
+
+Distributed evolutionary approaches in the energy domain
 Electric and plug-in hybrid vehicles
 Electricity markets
 Energy scheduling
@@ -34,14 +37,13 @@ Smart grid and micro-grid problems
 Solar and wind power integration and forecast
 Super grids problems (continental and transcontinental transmission system)
 Transportation & energy joint problems
-Distributed evolutionary approaches in the energy domain
 
 
 <h3><b>Important Dates</b></h3>
 - Paper Submission Deadline: 31 January 2021
 - Paper Acceptance Notification Date: 22 March 2021
 - Final Paper Submission & Early Registration Deadline: 7 April 2021
-- IEEE WCCI 2020: 19 – 24th July, 2020, Glasgow (UK)
+- IEEE CEC, 28 June – 1 July, 2021, Krakow, Poland
 
 
 <h3><b>Submit a paper to the special session:</b></h3>
@@ -49,7 +51,6 @@ Distributed evolutionary approaches in the energy domain
 - Submission link: <a href="https://ieee-cis.org/conferences/cec2021/upload.php">https://ieee-cis.org/conferences/cec2021/upload.php</a>
 - Follow the webpage indications and fill all the fields in the form.
 - Select "SS-44 EvolutionaryAlgorithms for Complex Optimization in the Energy Domain" in Main Research Topic during submission
-
 
 
 <h3><b>Special Session Organizers:</b></h3>
