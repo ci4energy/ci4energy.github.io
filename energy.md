@@ -1,64 +1,72 @@
 ---
 layout: default
-title: Energy@CEC'21
+title: Energy@IECON'21
 permalink: /energy/
 showinheader: true
 weight: 50
 ---
 <center>
-<h2><b><a href="http://www.gecad.isep.ipp.pt/ERM-competitions/ss2021/">CEC'21 CEC-44 Special Session on<br><br>Evolutionary Algorithms for Complex Optimization<br>in the Energy Domain<br><br>at ​the IEEE CONGRESS ON EVOLUTIONARY COMPUTATION (CEC) 2021</a></b></h2>
+<h2><b><a href="https://ieeeiecon.org/wp-content/uploads/sites/293/69.pdf">IECON Special Session on<br><br>Computational intelligence for power system networks and smart grid<br>at ​Annual Conference of the IEEE Industrial Electronics Society (IECON 2021)</a></b></h2>
 
+   
 <!-- <h3><a href="{{ site.baseurl }}/assets/SmartEA-CfP.pdf">Call for submissions as PDF</a></h3> -->
 
 </center>
 
 <h3><b>Description and Topics</b></h3>
 
+The aim of this special session is to explore the application of computational methods for performance improvement of power system networks and the electrical grid. The advances in technology provide more accurate and fast algorithms. Some of these new algorithms have emerged in the context of artificial intelligence, giving place to a line of research called evolutionary computation. The so-called evolutionary algorithms are mostly nature inspired and are competent enough to face most of the tasks in the new complex paradigm of power and energy systems. The electrical grid has now become smart and has bidirectional communication of information through smart devices. This has motivated the researchers towards the pursuit of solutions to problems with high-dimensionality and huge information. As can be seen, there are many aspects involved in this
+context and a detailed examination is required for sustainability and efficient performance. In addition, the complexity of such systems needs to be handled for the benefit of customers. This has affected the energy market equally. Thus, technological advancement should be properly met by price adjustments and profits and considering how the electricity market is affected by forecasting accuracy. This leads to machine learning and deep learning based forecasting methods, which are more adaptive and responsive. All these considerations are expected to increase the benefits and reduce unnecessary monetary losses.
 
-The growing demand for energy that will come from developing countries is unavoidable. Therefore, sustainability and efficacy are important, taking into consideration the known finite resources of the earth. Energy efficiency and resource management play a substantial role in achieving the necessary sustainable development. In reality, in the planning, operation, and control of energy systems, effective energy optimization approaches are highly important.
+Topics of interest include, but are not limited to:
 
-Scope and Topics
+Energy market price forecasting
+Forecasting methods and its impact on energy management
+Load forecasting using AI/ML/DL.
+Optimization for smart grid and electricity market.
+Computational intelligence for power system protection
+Computation intelligence for smart grid
+Planning and operation of grid resources
+Smart grid and renewables utilization
+Distributed generation and energy price
+Energy market scenario and distribution system planning
+Smart-grid and optimization
+Energy market and renewables
+Flexibility resources in the distribution level
+Aggregator-DSO-TSO coordination in smart grids
 
-This special session is a follow-up to the previous editions of the CEC. Papers on the application of the EC to real-world problems in the field of energy are welcome. Problems may be based in various areas of the energy chain (e.g. heating, cooling and power supply) and different market levels (e.g. household or industrial level). Problems of high complexity under uncertainty, dynamic objective settings, many-objectives, and large-scale search spaces are more than welcome. This special session aims to bridge the gap between energy engineers and the new EC applications for energy optimization problems. In addition, this particular session is related to the “Smart Grid Optimization Problems” competition. Participants are also welcome to send the results of their algorithms competition to our session.
-
-Topics should concern EC applications or theory in the energy domain including, but not limited to:
-
-Distributed evolutionary approaches in the energy domain
-Electric and plug-in hybrid vehicles
-Electricity markets
-Energy scheduling
-Heat and electricity joint optimization problems
-Hydrogen economy problems
-Multi/many-objective problems in the energy domain
-Natural gas optimization problems
-Optimal power flow in distribution and transmission
-Residential, industrial and district cooling/heating problems
-Smart grid and micro-grid problems
-Solar and wind power integration and forecast
-Super grids problems (continental and transcontinental transmission system)
-Transportation & energy joint problems
-
+Submissions Procedure: All the instructions for paper submission are included in the conference
+website: <a href="https://attend.ieee.org/iecon-2021/">https://attend.ieee.org/iecon-2021/
 
 <h3><b>Important Dates</b></h3>
-- Paper Submission Deadline: 31 January 2021
-- Paper Acceptance Notification Date: 22 March 2021
-- Final Paper Submission & Early Registration Deadline: 7 April 2021
-- IEEE CEC, 28 June – 1 July, 2021, Krakow, Poland
+- Paper Submission Deadline: *As per Conference schedule
+- Paper Acceptance Notification Date: *As per Conference schedule
+- Final Paper Submission & Early Registration Deadline: *As per Conference schedule
+- IECON, October 13-16, 2021, online in a virtual format.
 
 
 <h3><b>Submit a paper to the special session:</b></h3>
 
-- Submission link: <a href="https://ieee-cis.org/conferences/cec2021/upload.php">https://ieee-cis.org/conferences/cec2021/upload.php</a>
+- Submission link: <a href="https://ieeeiecon.org/paper-submission/">https://ieeeiecon.org/paper-submission/</a>
 - Follow the webpage indications and fill all the fields in the form.
-- Select "SS-44 EvolutionaryAlgorithms for Complex Optimization in the Energy Domain" in Main Research Topic during submission
+
+
+Organizer 1: Dr. Narayana Prasad Padhy, nppeefee@gmail.com, nppadhy@ee.iitr.ac.in
+Affiliation: Professor Department of Electrical Engineering, Indian Institute of Technology (IIT)
+Roorkee, Uttarakhand, India.
+Organizer 2: Dr. Fernando Lezama, flz@isep.ipp.pt, ing.flezama@gmail.com
+GECAD–Research Group on Intelligent Engineering and Computing for Advanced Innovation and
+Development, Institute of Engineering, Polytechnic of Porto (ISEP/IPP), 4200-072 Porto, Portugal.
+Organizer 3: Dr. Zita A. Vale, zav@isep.ipp.pt, email.zita.vale@gmail.com,
+Professor, Department of Electrical Engineering, Institute of Engineering – Polytechnic of Porto
+(ISEP), 4200-072 Porto, Portugal.
 
 
 <h3><b>Special Session Organizers:</b></h3>
+- <a href="mailto:vmahajan@eed.svnit.ac.in">Vasundhara Mahajan</a>, Sardar Vallabhbhai National Institute of Technology (SVNIT) Surat, Gujarat, India
+- <a href="mailto:nppadhy@ee.iitr.ac.in">Narayana Prasad Padhy</a>, Indian Institute of Technology (IIT) Roorkee, Uttarakhand, India.
 - <a href="mailto:flz@isep.ipp.pt">Fernando Lezama</a>, GECAD, Polytechnic of Porto
-- <a href="mailto:jan@isep.ipp.pt">Joao Soares</a>, GECAD, Polytechnic of Porto
 - <a href="mailto:zav@isep.ipp.pt">Zita Vale</a>, Polytechnic of Porto
-- <a href="mailto:ruben@dee.feis.unesp.br">Ruben Romero</a>, UNESP, Ilha Solteira
-
 
 
 
