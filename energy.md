@@ -51,17 +51,6 @@ website: <a href="https://attend.ieee.org/iecon-2021/">https://attend.ieee.org/i
 - Follow the webpage indications and fill all the fields in the form.
 
 
-Organizer 1: Dr. Narayana Prasad Padhy, nppeefee@gmail.com, nppadhy@ee.iitr.ac.in
-Affiliation: Professor Department of Electrical Engineering, Indian Institute of Technology (IIT)
-Roorkee, Uttarakhand, India.
-Organizer 2: Dr. Fernando Lezama, flz@isep.ipp.pt, ing.flezama@gmail.com
-GECAD–Research Group on Intelligent Engineering and Computing for Advanced Innovation and
-Development, Institute of Engineering, Polytechnic of Porto (ISEP/IPP), 4200-072 Porto, Portugal.
-Organizer 3: Dr. Zita A. Vale, zav@isep.ipp.pt, email.zita.vale@gmail.com,
-Professor, Department of Electrical Engineering, Institute of Engineering – Polytechnic of Porto
-(ISEP), 4200-072 Porto, Portugal.
-
-
 <h3><b>Special Session Organizers:</b></h3>
 - <a href="mailto:vmahajan@eed.svnit.ac.in">Vasundhara Mahajan</a>, Sardar Vallabhbhai National Institute of Technology (SVNIT) Surat, Gujarat, India
 - <a href="mailto:nppadhy@ee.iitr.ac.in">Narayana Prasad Padhy</a>, Indian Institute of Technology (IIT) Roorkee, Uttarakhand, India.
