@@ -7,6 +7,7 @@ weight: 10
 ---
 
 <h3><b>Upcoming events</b></h3>
+- Organizers of the <a href="https://ieeeiecon.org/wp-content/uploads/sites/293/69.pdf">Special Session on “Computational intelligence for power system networks and smart grid” at Annual Conference of the IEEE Industrial Electronics Society (IECON 2021)</a>
 - Organizers of the <a href="http://www.gecad.isep.ipp.pt/ERM-competitions/ss2021/">CEC-44 Evolutionary Algorithms for Complex Optimization in the Energy Domain at CEC 2021</a>
 - Organizers of the <a href="http://www.gecad.isep.ipp.pt/ERM-competitions/2021-2/"> joint CEC and GECCO 2021 competition - Evolutionary Computation in the Energy Domain: Smart Grid Applications</a>
 - Special Issue <a href="https://www.mdpi.com/journal/energies/special_issues/computational_intelligence_applications_smartGrid_optimization"> "Computational Intelligence Applications in SmartGrid Optimization “ ENERGIES journal (Still accepting submissions)</a> 
