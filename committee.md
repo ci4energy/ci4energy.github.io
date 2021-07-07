@@ -28,7 +28,7 @@ weight: 40
 - <a href="http://www.gecad.isep.ipp.pt">Zita Vale</a>, Engineering Institute – Polytechnic of Porto
 - <a href="https://www.linkedin.com/in/bai-wenlei-99629757/">Wenlei Bai</a>, Hitachi ABB Power Grids
 - <a href="http://www.chalmers.se/en/staff/Pages/Ankur-Srivastava.aspx">Ankur Srivastava</a>, Chalmers University of Technology
-
+- <a href="https://sites.google.com/view/dr-vasundhara-mahajan">Vasundhara Mahajan</a>, Sardar Vallabhbhai National Institute of Technology, India.
 
 {% comment %}
 
